@@ -1,0 +1,3236 @@
+fileFormatVersion: 2
+guid: 82e4aaec0045b75439d97482ae46b707
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4695677483842630109
+    second: PC Computer - Spelunky - Yellow_0
+  - first:
+      213: 4742854462743206521
+    second: PC Computer - Spelunky - Yellow_1
+  - first:
+      213: -5978842952663905471
+    second: PC Computer - Spelunky - Yellow_2
+  - first:
+      213: 7967961698772108415
+    second: PC Computer - Spelunky - Yellow_3
+  - first:
+      213: -3290869669923740286
+    second: PC Computer - Spelunky - Yellow_4
+  - first:
+      213: 1841935048219660190
+    second: PC Computer - Spelunky - Yellow_5
+  - first:
+      213: 6262033727914078021
+    second: PC Computer - Spelunky - Yellow_6
+  - first:
+      213: 9068432441843244474
+    second: PC Computer - Spelunky - Yellow_7
+  - first:
+      213: -4030057539050907389
+    second: PC Computer - Spelunky - Yellow_8
+  - first:
+      213: -4530498788698149381
+    second: PC Computer - Spelunky - Yellow_9
+  - first:
+      213: 8157990130314069122
+    second: PC Computer - Spelunky - Yellow_10
+  - first:
+      213: 4833238474442250511
+    second: PC Computer - Spelunky - Yellow_11
+  - first:
+      213: 6402661836163621323
+    second: PC Computer - Spelunky - Yellow_12
+  - first:
+      213: 4531101830166431121
+    second: PC Computer - Spelunky - Yellow_13
+  - first:
+      213: 5994252376669225549
+    second: PC Computer - Spelunky - Yellow_14
+  - first:
+      213: -1988004376598334137
+    second: PC Computer - Spelunky - Yellow_15
+  - first:
+      213: -935257962102897596
+    second: PC Computer - Spelunky - Yellow_16
+  - first:
+      213: -8941670437020304013
+    second: PC Computer - Spelunky - Yellow_17
+  - first:
+      213: 3828571598627524988
+    second: PC Computer - Spelunky - Yellow_18
+  - first:
+      213: 635178406875817347
+    second: PC Computer - Spelunky - Yellow_19
+  - first:
+      213: 5995974253700540839
+    second: PC Computer - Spelunky - Yellow_20
+  - first:
+      213: 5581504167454470878
+    second: PC Computer - Spelunky - Yellow_21
+  - first:
+      213: 6998498279348693483
+    second: PC Computer - Spelunky - Yellow_22
+  - first:
+      213: 4267998858217240049
+    second: PC Computer - Spelunky - Yellow_23
+  - first:
+      213: 1082062700089048212
+    second: PC Computer - Spelunky - Yellow_24
+  - first:
+      213: -2727500804428392586
+    second: PC Computer - Spelunky - Yellow_25
+  - first:
+      213: -1602451364758518895
+    second: PC Computer - Spelunky - Yellow_26
+  - first:
+      213: -6632956375619561294
+    second: PC Computer - Spelunky - Yellow_27
+  - first:
+      213: -2927558477710784861
+    second: PC Computer - Spelunky - Yellow_28
+  - first:
+      213: 5452795073373711215
+    second: PC Computer - Spelunky - Yellow_29
+  - first:
+      213: 5235737278003163295
+    second: PC Computer - Spelunky - Yellow_30
+  - first:
+      213: -8658633954678126748
+    second: PC Computer - Spelunky - Yellow_31
+  - first:
+      213: -6581565897476695593
+    second: PC Computer - Spelunky - Yellow_32
+  - first:
+      213: -2696692572474471713
+    second: PC Computer - Spelunky - Yellow_33
+  - first:
+      213: 7469298916012471698
+    second: PC Computer - Spelunky - Yellow_34
+  - first:
+      213: -5253965814734259085
+    second: PC Computer - Spelunky - Yellow_35
+  - first:
+      213: 190957674008525694
+    second: PC Computer - Spelunky - Yellow_36
+  - first:
+      213: 5792120409759288942
+    second: PC Computer - Spelunky - Yellow_37
+  - first:
+      213: 7566048172418870742
+    second: PC Computer - Spelunky - Yellow_38
+  - first:
+      213: 216628724832600926
+    second: PC Computer - Spelunky - Yellow_39
+  - first:
+      213: -8233506640861915006
+    second: PC Computer - Spelunky - Yellow_40
+  - first:
+      213: -676897131724498615
+    second: PC Computer - Spelunky - Yellow_41
+  - first:
+      213: -6269055966186953997
+    second: PC Computer - Spelunky - Yellow_42
+  - first:
+      213: 8737090200220429737
+    second: PC Computer - Spelunky - Yellow_43
+  - first:
+      213: 1600663369414112673
+    second: PC Computer - Spelunky - Yellow_44
+  - first:
+      213: -6739837084303116684
+    second: PC Computer - Spelunky - Yellow_45
+  - first:
+      213: -421925456157274521
+    second: PC Computer - Spelunky - Yellow_46
+  - first:
+      213: -3898726591619665800
+    second: PC Computer - Spelunky - Yellow_47
+  - first:
+      213: -4878059268291838880
+    second: PC Computer - Spelunky - Yellow_48
+  - first:
+      213: 7311631624247147330
+    second: PC Computer - Spelunky - Yellow_49
+  - first:
+      213: 4928227816882679385
+    second: PC Computer - Spelunky - Yellow_50
+  - first:
+      213: 6652001729727610917
+    second: PC Computer - Spelunky - Yellow_51
+  - first:
+      213: -8141290870328149404
+    second: PC Computer - Spelunky - Yellow_52
+  - first:
+      213: -3388320144533909115
+    second: PC Computer - Spelunky - Yellow_53
+  - first:
+      213: 4442228569277306742
+    second: PC Computer - Spelunky - Yellow_54
+  - first:
+      213: -1397529264180603520
+    second: PC Computer - Spelunky - Yellow_55
+  - first:
+      213: -7967467285599407261
+    second: PC Computer - Spelunky - Yellow_56
+  - first:
+      213: -2421558554324298253
+    second: PC Computer - Spelunky - Yellow_57
+  - first:
+      213: -3177575187054222361
+    second: PC Computer - Spelunky - Yellow_58
+  - first:
+      213: -6239887897194531464
+    second: PC Computer - Spelunky - Yellow_59
+  - first:
+      213: -8877724094874420895
+    second: PC Computer - Spelunky - Yellow_60
+  - first:
+      213: 6148133608818777996
+    second: PC Computer - Spelunky - Yellow_61
+  - first:
+      213: -5797781369082180301
+    second: PC Computer - Spelunky - Yellow_62
+  - first:
+      213: 848160155967305079
+    second: PC Computer - Spelunky - Yellow_63
+  - first:
+      213: -163772158995492768
+    second: PC Computer - Spelunky - Yellow_64
+  - first:
+      213: -5941805615492258117
+    second: PC Computer - Spelunky - Yellow_65
+  - first:
+      213: 225913162897468515
+    second: PC Computer - Spelunky - Yellow_66
+  - first:
+      213: -3272481983359684860
+    second: PC Computer - Spelunky - Yellow_67
+  - first:
+      213: -1570899454119190561
+    second: PC Computer - Spelunky - Yellow_68
+  - first:
+      213: -1296852277837579791
+    second: PC Computer - Spelunky - Yellow_69
+  - first:
+      213: 1573740984183249034
+    second: PC Computer - Spelunky - Yellow_70
+  - first:
+      213: 7373207504637166906
+    second: PC Computer - Spelunky - Yellow_71
+  - first:
+      213: -5572543089264430756
+    second: PC Computer - Spelunky - Yellow_72
+  - first:
+      213: -1948319467606455213
+    second: PC Computer - Spelunky - Yellow_73
+  - first:
+      213: -8907355685244218881
+    second: PC Computer - Spelunky - Yellow_74
+  - first:
+      213: 2929561161322830120
+    second: PC Computer - Spelunky - Yellow_75
+  - first:
+      213: -8025278300435300764
+    second: PC Computer - Spelunky - Yellow_76
+  - first:
+      213: 2769061939527837947
+    second: PC Computer - Spelunky - Yellow_77
+  - first:
+      213: -3668425496042449825
+    second: PC Computer - Spelunky - Yellow_78
+  - first:
+      213: 4276547415733884801
+    second: PC Computer - Spelunky - Yellow_79
+  - first:
+      213: 6984048607281181360
+    second: PC Computer - Spelunky - Yellow_80
+  - first:
+      213: 5210687154091617822
+    second: PC Computer - Spelunky - Yellow_81
+  - first:
+      213: -3536336261909489564
+    second: PC Computer - Spelunky - Yellow_82
+  - first:
+      213: -4870527286165115773
+    second: PC Computer - Spelunky - Yellow_83
+  - first:
+      213: -2244720705094012373
+    second: PC Computer - Spelunky - Yellow_84
+  - first:
+      213: -3134570151760452705
+    second: PC Computer - Spelunky - Yellow_85
+  - first:
+      213: 3564031477588381792
+    second: PC Computer - Spelunky - Yellow_86
+  - first:
+      213: 7895758031045611198
+    second: PC Computer - Spelunky - Yellow_87
+  - first:
+      213: 2203109089518172978
+    second: PC Computer - Spelunky - Yellow_88
+  - first:
+      213: 7580920234169575983
+    second: PC Computer - Spelunky - Yellow_89
+  - first:
+      213: -2198318471420936135
+    second: PC Computer - Spelunky - Yellow_90
+  - first:
+      213: 8761462101521010353
+    second: PC Computer - Spelunky - Yellow_91
+  - first:
+      213: 1646048250073927630
+    second: PC Computer - Spelunky - Yellow_92
+  - first:
+      213: -4020348070106931291
+    second: PC Computer - Spelunky - Yellow_93
+  - first:
+      213: 8154845512640560994
+    second: PC Computer - Spelunky - Yellow_94
+  - first:
+      213: 5789453767895911213
+    second: PC Computer - Spelunky - Yellow_95
+  - first:
+      213: -3917577322721925132
+    second: PC Computer - Spelunky - Yellow_96
+  - first:
+      213: 5109831461342578356
+    second: PC Computer - Spelunky - Yellow_97
+  - first:
+      213: -7166918518720022822
+    second: PC Computer - Spelunky - Yellow_98
+  - first:
+      213: 9167373902281364243
+    second: PC Computer - Spelunky - Yellow_99
+  - first:
+      213: 6348858719466355341
+    second: PC Computer - Spelunky - Yellow_100
+  - first:
+      213: -8772188757582089982
+    second: PC Computer - Spelunky - Yellow_101
+  - first:
+      213: 5823821101927062257
+    second: PC Computer - Spelunky - Yellow_102
+  - first:
+      213: 5963154330631787972
+    second: PC Computer - Spelunky - Yellow_103
+  - first:
+      213: -4499291420262802435
+    second: PC Computer - Spelunky - Yellow_104
+  - first:
+      213: 5842101007372370707
+    second: PC Computer - Spelunky - Yellow_105
+  - first:
+      213: -6052260727341675597
+    second: PC Computer - Spelunky - Yellow_106
+  - first:
+      213: -1309909863475593074
+    second: PC Computer - Spelunky - Yellow_107
+  - first:
+      213: 1222511457551514928
+    second: PC Computer - Spelunky - Yellow_108
+  - first:
+      213: -1195066053570486889
+    second: PC Computer - Spelunky - Yellow_109
+  - first:
+      213: 6484168829498431815
+    second: PC Computer - Spelunky - Yellow_110
+  - first:
+      213: 8985600155377020896
+    second: PC Computer - Spelunky - Yellow_111
+  - first:
+      213: -7611102733337198830
+    second: PC Computer - Spelunky - Yellow_112
+  - first:
+      213: -452146460448009288
+    second: PC Computer - Spelunky - Yellow_113
+  - first:
+      213: -289618520393406976
+    second: PC Computer - Spelunky - Yellow_114
+  - first:
+      213: -5853372342919236665
+    second: PC Computer - Spelunky - Yellow_115
+  - first:
+      213: -8596788235481427195
+    second: PC Computer - Spelunky - Yellow_116
+  - first:
+      213: 4068434898170675766
+    second: PC Computer - Spelunky - Yellow_117
+  - first:
+      213: 418720571671983846
+    second: PC Computer - Spelunky - Yellow_118
+  - first:
+      213: -9047096372821082139
+    second: PC Computer - Spelunky - Yellow_119
+  - first:
+      213: 6705568225726967779
+    second: PC Computer - Spelunky - Yellow_120
+  - first:
+      213: -920984278480380
+    second: PC Computer - Spelunky - Yellow_121
+  - first:
+      213: -5626355682511222684
+    second: PC Computer - Spelunky - Yellow_122
+  - first:
+      213: -3586918754505045975
+    second: PC Computer - Spelunky - Yellow_123
+  - first:
+      213: -1010066082739313221
+    second: PC Computer - Spelunky - Yellow_124
+  - first:
+      213: 3656581660736938471
+    second: PC Computer - Spelunky - Yellow_125
+  - first:
+      213: 3133052649612277450
+    second: PC Computer - Spelunky - Yellow_126
+  - first:
+      213: 4987069826036331222
+    second: PC Computer - Spelunky - Yellow_127
+  - first:
+      213: 1948354222018282263
+    second: PC Computer - Spelunky - Yellow_128
+  - first:
+      213: 3349717749021443941
+    second: PC Computer - Spelunky - Yellow_129
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 950
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e82cb053a95deb0800000000000000
+      internalID: -4695677483842630109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 950
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a5f21510102d140800000000000000
+      internalID: 4742854462743206521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 950
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bce960302e60da0800000000000000
+      internalID: -5978842952663905471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 950
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ca3fe2f2e39e60800000000000000
+      internalID: 7967961698772108415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 951
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285a612987b7452d0800000000000000
+      internalID: -3290869669923740286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 950
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f8978da2edf8910800000000000000
+      internalID: 1841935048219660190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 950
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f65d37f7637e650800000000000000
+      internalID: 6262033727914078021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 950
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdd1bd524b89dd70800000000000000
+      internalID: 9068432441843244474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 950
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3095c78350c5218c0800000000000000
+      internalID: -4030057539050907389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 950
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd2f44fa5f6021c0800000000000000
+      internalID: -4530498788698149381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 870
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2844386fcc0073170800000000000000
+      internalID: 8157990130314069122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 870
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0991efe8cc131340800000000000000
+      internalID: 4833238474442250511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 870
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1ab796403dad850800000000000000
+      internalID: 6402661836163621323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 870
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19541349b15b1ee30800000000000000
+      internalID: 4531101830166431121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 870
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42096517ccdf2350800000000000000
+      internalID: 5994252376669225549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 870
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7453fe86d803964e0800000000000000
+      internalID: -1988004376598334137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 870
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4444083b6db4503f0800000000000000
+      internalID: -935257962102897596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 870
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dfacecc1ec8e380800000000000000
+      internalID: -8941670437020304013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 870
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71d7559591d12530800000000000000
+      internalID: 3828571598627524988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 870
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385e4de456b90d800800000000000000
+      internalID: 635178406875817347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 870
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a96532d0daf53350800000000000000
+      internalID: 5995974253700540839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 870
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27c7dd77c757d40800000000000000
+      internalID: 5581504167454470878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 790
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9e2cdfa19af1160800000000000000
+      internalID: 6998498279348693483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 790
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5bfc5495afa3b30800000000000000
+      internalID: 4267998858217240049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 798
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cf18fea42440f00800000000000000
+      internalID: 1082062700089048212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 793
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67714732878f52ad0800000000000000
+      internalID: -2727500804428392586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 790
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1938ab159f2f2c9e0800000000000000
+      internalID: -1602451364758518895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 790
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8988cb15103f3a0800000000000000
+      internalID: -6632956375619561294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 791
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a68ddc43193f57d0800000000000000
+      internalID: -2927558477710784861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 790
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba075aa383cab40800000000000000
+      internalID: 5452795073373711215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 789
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9036a0705319a840800000000000000
+      internalID: 5235737278003163295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 787
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467464b2b4a56d780800000000000000
+      internalID: -8658633954678126748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 790
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d99317dfa499a4a0800000000000000
+      internalID: -6581565897476695593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 709
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda893d946c639ad0800000000000000
+      internalID: -2696692572474471713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 709
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29532224ac748a760800000000000000
+      internalID: 7469298916012471698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 709
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cf7be9de92617b0800000000000000
+      internalID: -5253965814734259085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 710
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bb9662efa66a200800000000000000
+      internalID: 190957674008525694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 710
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e0eff13deb16050800000000000000
+      internalID: 5792120409759288942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 710
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd2586e9b0000960800000000000000
+      internalID: 7566048172418870742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 710
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e530bcf6dae910300800000000000000
+      internalID: 216628724832600926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 710
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2881b974555bcbd80800000000000000
+      internalID: -8233506640861915006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 702
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949941225ad2b96f0800000000000000
+      internalID: -676897131724498615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 705
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2226a40d6dff8a0800000000000000
+      internalID: -6269055966186953997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 705
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad6faafe31604970800000000000000
+      internalID: 8737090200220429737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 711
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a578e29ad2b63610800000000000000
+      internalID: 1600663369414112673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 629
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476bb1a81e94772a0800000000000000
+      internalID: -6739837084303116684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 629
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0d087805052af0800000000000000
+      internalID: -421925456157274521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 630
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870f32e32d0f4e9c0800000000000000
+      internalID: -3898726591619665800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 630
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cb928c0f6ad4cb0800000000000000
+      internalID: -4878059268291838880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 630
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b73cb3932287560800000000000000
+      internalID: 7311631624247147330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 630
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ead7da615946440800000000000000
+      internalID: 4928227816882679385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 630
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520c2b15458a05c50800000000000000
+      internalID: 6652001729727610917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 629
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ab5fc7613540f80800000000000000
+      internalID: -8141290870328149404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 630
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58191c7d7c44af0d0800000000000000
+      internalID: -3388320144533909115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 630
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6779dda0957f5ad30800000000000000
+      internalID: 4442228569277306742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 630
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0855d45e98afa9ce0800000000000000
+      internalID: -1397529264180603520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 550
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3633d4a97bedd6190800000000000000
+      internalID: -7967467285599407261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 549
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f511b62355e46ed0800000000000000
+      internalID: -2421558554324298253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 550
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3a980f33cf6e3d0800000000000000
+      internalID: -3177575187054222361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 550
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f57194077769a0800000000000000
+      internalID: -6239887897194531464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 549
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169751fc8fcfbc480800000000000000
+      internalID: -8877724094874420895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 550
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f984961fe825550800000000000000
+      internalID: 6148133608818777996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 549
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d8a7210942a8fa0800000000000000
+      internalID: -5797781369082180301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 551
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77532190b2545cb00800000000000000
+      internalID: 848160155967305079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_64
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 550
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06099fec61a2abdf0800000000000000
+      internalID: -163772158995492768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_65
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 549
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a92416477a8da0800000000000000
+      internalID: -5941805615492258117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_66
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 549
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ca69023da922300800000000000000
+      internalID: 225913162897468515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_67
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 550
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40feaf779fec592d0800000000000000
+      internalID: -3272481983359684860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 470
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfde5bf44b033ae0800000000000000
+      internalID: -1570899454119190561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_69
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 469
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9b55d69b7a00ee0800000000000000
+      internalID: -1296852277837579791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_70
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 470
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8857ba461d07d510800000000000000
+      internalID: 1573740984183249034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_71
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 470
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3584291925e25660800000000000000
+      internalID: 7373207504637166906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_72
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 469
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51f5dcb5995aa2b0800000000000000
+      internalID: -5572543089264430756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_73
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 470
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc65054cd26f4e0800000000000000
+      internalID: -1948319467606455213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 467
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff156fc8237b26480800000000000000
+      internalID: -8907355685244218881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 468
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299d60da54e7a820800000000000000
+      internalID: 2929561161322830120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_76
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 468
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e37eec7eb70a090800000000000000
+      internalID: -8025278300435300764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_77
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 468
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf86c92b92fad6620800000000000000
+      internalID: 2769061939527837947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_78
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 468
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54576f8272271dc0800000000000000
+      internalID: -3668425496042449825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_79
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 468
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187deeb6739595b30800000000000000
+      internalID: 4276547415733884801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 395
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b27e0b84335ce060800000000000000
+      internalID: 6984048607281181360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 393
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e6257fb54105840800000000000000
+      internalID: 5210687154091617822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_82
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 390
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4685d86f7e86ceec0800000000000000
+      internalID: -3536336261909489564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_83
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 389
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce7470d39686cb0800000000000000
+      internalID: -4870527286165115773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_84
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 394
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2238e8696629d0e0800000000000000
+      internalID: -2244720705094012373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_85
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 395
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93a6ccfd05cf74d0800000000000000
+      internalID: -3134570151760452705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_86
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 393
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06057fdeebbf57130800000000000000
+      internalID: 3564031477588381792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_87
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 390
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe49e0881e539d60800000000000000
+      internalID: 7895758031045611198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_88
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 389
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b3a2a5b04039e10800000000000000
+      internalID: 2203109089518172978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_89
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 394
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aaf3c99c6d43960800000000000000
+      internalID: 7580920234169575983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_90
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 310
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93086c75ff00e71e0800000000000000
+      internalID: -2198318471420936135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 310
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be05327c57f69970800000000000000
+      internalID: 8761462101521010353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_92
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 310
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf4fcc8920f7d610800000000000000
+      internalID: 1646048250073927630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_93
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 310
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af59df1bbad438c0800000000000000
+      internalID: -4020348070106931291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_94
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 310
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ff02b99c4db2170800000000000000
+      internalID: 8154845512640560994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_95
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 310
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b8bfe2785485050800000000000000
+      internalID: 5789453767895911213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 310
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a8036e28f1a9c0800000000000000
+      internalID: -3917577322721925132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_97
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 306
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6807b14a4c9e640800000000000000
+      internalID: 5109831461342578356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_98
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 228
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad63685449df98c90800000000000000
+      internalID: -7166918518720022822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_99
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 226
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313daa84efd093f70800000000000000
+      internalID: 9167373902281364243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_100
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 227
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8afeee1e5dab1850800000000000000
+      internalID: 6348858719466355341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_101
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 227
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201f4a15dcce24680800000000000000
+      internalID: -8772188757582089982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 227
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa59cfaf6e52d050800000000000000
+      internalID: 5823821101927062257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_103
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 227
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5d322054161c250800000000000000
+      internalID: 5963154330631787972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_104
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 225
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd542aa4e4f81c0800000000000000
+      internalID: -4499291420262802435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_105
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 226
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313c166d9ef431150800000000000000
+      internalID: 5842101007372370707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_106
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 227
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb80ca4fec020ca0800000000000000
+      internalID: -6052260727341675597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_107
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 227
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c1cb5be342dde0800000000000000
+      internalID: -1309909863475593074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_108
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 225
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03df33981bb37f010800000000000000
+      internalID: 1222511457551514928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_109
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 226
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d9dc981c54a6fe0800000000000000
+      internalID: -1195066053570486889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_110
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 147
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7491ae122356cf950800000000000000
+      internalID: 6484168829498431815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_111
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 146
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef21facbb343bc70800000000000000
+      internalID: 8985600155377020896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_112
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 144
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f7e6ea36eef5690800000000000000
+      internalID: -7611102733337198830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_113
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 146
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3db869037a9b9f0800000000000000
+      internalID: -452146460448009288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_114
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 146
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006a39b7d711bfbf0800000000000000
+      internalID: -289618520393406976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_115
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 146
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3f33addd4a4cea0800000000000000
+      internalID: -5853372342919236665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_116
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 145
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5035fd6c5a212b880800000000000000
+      internalID: -8596788235481427195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_117
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 142
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63204410cfbf57830800000000000000
+      internalID: 4068434898170675766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_118
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 144
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e638a634289fc500800000000000000
+      internalID: 418720571671983846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_119
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 145
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef364158c1427280800000000000000
+      internalID: -9047096372821082139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_120
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 86
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef2a9f06c6fe0d50800000000000000
+      internalID: 6705568225726967779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_121
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 74
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40acc33ae5abcfff0800000000000000
+      internalID: -920984278480380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 80
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680be3015b2be1b0800000000000000
+      internalID: -5626355682511222684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_123
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 74
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9284a87a564b83ec0800000000000000
+      internalID: -3586918754505045975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_124
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 72
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb527a2df368bf1f0800000000000000
+      internalID: -1010066082739313221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_125
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1ee64a5a9ceb230800000000000000
+      internalID: 3656581660736938471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_126
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 75
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac67cb209c6da7b20800000000000000
+      internalID: 3133052649612277450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 105
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2f6fa8591a53540800000000000000
+      internalID: 4987069826036331222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_128
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 67
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713480497d1f90b10800000000000000
+      internalID: 1948354222018282263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Yellow_129
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 86
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5678e309b869c7e20800000000000000
+      internalID: 3349717749021443941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

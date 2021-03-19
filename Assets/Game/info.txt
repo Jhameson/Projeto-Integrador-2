@@ -1,0 +1,38 @@
+mov = 7
+vida = 100
+jump = 600	
+mov bala = 10
+destroy in = 1.2
+dano = 10
+
+ninja
+	mov = 10
+	vida = 90
+	jump = 650
+	mov bala = 12
+	destroy in = 2
+	dano = 9
+
+barbaro
+ 	mov = 7
+	vida = 120
+	jump = 590
+	mov bala = 9
+	destroy in = 1.2
+	dano = 12
+
+ciclope
+ 	mov = 8
+	vida = 95
+	jump = 600
+	mov bala = 10
+	destroy in = 3
+	dano = 7
+
+muié
+ 	mov = 7
+	vida = 100
+	jump = 600	
+	mov bala = 10
+	destroy in = 1.2
+	dano = 10

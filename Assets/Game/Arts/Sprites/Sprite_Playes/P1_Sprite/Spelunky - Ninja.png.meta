@@ -1,0 +1,3188 @@
+fileFormatVersion: 2
+guid: c034a9443d91643478fa61035a4f4a1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8628714056918148696
+    second: PC Computer - Spelunky - Ninja_0
+  - first:
+      213: 564461924543546366
+    second: PC Computer - Spelunky - Ninja_1
+  - first:
+      213: -6886609604341846747
+    second: PC Computer - Spelunky - Ninja_2
+  - first:
+      213: 6785304435406489217
+    second: PC Computer - Spelunky - Ninja_3
+  - first:
+      213: -5016360292734629983
+    second: PC Computer - Spelunky - Ninja_4
+  - first:
+      213: -6058307122781114302
+    second: PC Computer - Spelunky - Ninja_5
+  - first:
+      213: 8995062508329454252
+    second: PC Computer - Spelunky - Ninja_6
+  - first:
+      213: 2400827855955719921
+    second: PC Computer - Spelunky - Ninja_7
+  - first:
+      213: 1712299705239625601
+    second: PC Computer - Spelunky - Ninja_8
+  - first:
+      213: -3940138799406307292
+    second: PC Computer - Spelunky - Ninja_9
+  - first:
+      213: -443779840314216430
+    second: PC Computer - Spelunky - Ninja_10
+  - first:
+      213: 7015721757807509660
+    second: PC Computer - Spelunky - Ninja_11
+  - first:
+      213: -663945098386765723
+    second: PC Computer - Spelunky - Ninja_12
+  - first:
+      213: -1609074063595490610
+    second: PC Computer - Spelunky - Ninja_13
+  - first:
+      213: -7981714435248340049
+    second: PC Computer - Spelunky - Ninja_14
+  - first:
+      213: -2011547708533208458
+    second: PC Computer - Spelunky - Ninja_15
+  - first:
+      213: -251933493717187961
+    second: PC Computer - Spelunky - Ninja_16
+  - first:
+      213: 330692271938080779
+    second: PC Computer - Spelunky - Ninja_17
+  - first:
+      213: -966369679046641864
+    second: PC Computer - Spelunky - Ninja_18
+  - first:
+      213: 487191562872062667
+    second: PC Computer - Spelunky - Ninja_19
+  - first:
+      213: 2894638073168628001
+    second: PC Computer - Spelunky - Ninja_20
+  - first:
+      213: -1597833319826729600
+    second: PC Computer - Spelunky - Ninja_21
+  - first:
+      213: 2203257097160866120
+    second: PC Computer - Spelunky - Ninja_22
+  - first:
+      213: -3442255808083504845
+    second: PC Computer - Spelunky - Ninja_23
+  - first:
+      213: 1813665926662547629
+    second: PC Computer - Spelunky - Ninja_24
+  - first:
+      213: 1541456101865346859
+    second: PC Computer - Spelunky - Ninja_25
+  - first:
+      213: -1703666046328857990
+    second: PC Computer - Spelunky - Ninja_26
+  - first:
+      213: -9201295477212522345
+    second: PC Computer - Spelunky - Ninja_27
+  - first:
+      213: 398405522945526153
+    second: PC Computer - Spelunky - Ninja_28
+  - first:
+      213: 1030140335108911832
+    second: PC Computer - Spelunky - Ninja_29
+  - first:
+      213: -4709231465200197608
+    second: PC Computer - Spelunky - Ninja_30
+  - first:
+      213: 9021124704829049877
+    second: PC Computer - Spelunky - Ninja_31
+  - first:
+      213: -8935412058151783374
+    second: PC Computer - Spelunky - Ninja_32
+  - first:
+      213: -6094693325771311698
+    second: PC Computer - Spelunky - Ninja_33
+  - first:
+      213: -793658470059652976
+    second: PC Computer - Spelunky - Ninja_34
+  - first:
+      213: 4576253671745463819
+    second: PC Computer - Spelunky - Ninja_35
+  - first:
+      213: 9116229622606969868
+    second: PC Computer - Spelunky - Ninja_36
+  - first:
+      213: -2318114881762764255
+    second: PC Computer - Spelunky - Ninja_37
+  - first:
+      213: 8604234258559303227
+    second: PC Computer - Spelunky - Ninja_38
+  - first:
+      213: -1448931478213751763
+    second: PC Computer - Spelunky - Ninja_39
+  - first:
+      213: 30295871026566256
+    second: PC Computer - Spelunky - Ninja_40
+  - first:
+      213: -1739860485058465999
+    second: PC Computer - Spelunky - Ninja_41
+  - first:
+      213: 8246020295271865758
+    second: PC Computer - Spelunky - Ninja_42
+  - first:
+      213: 7946696842775482937
+    second: PC Computer - Spelunky - Ninja_43
+  - first:
+      213: 3077401880574319134
+    second: PC Computer - Spelunky - Ninja_44
+  - first:
+      213: -4745999561418617380
+    second: PC Computer - Spelunky - Ninja_45
+  - first:
+      213: 9188931380962474541
+    second: PC Computer - Spelunky - Ninja_46
+  - first:
+      213: 4990284261511190650
+    second: PC Computer - Spelunky - Ninja_47
+  - first:
+      213: -1822180450218197555
+    second: PC Computer - Spelunky - Ninja_48
+  - first:
+      213: -4725731174332323269
+    second: PC Computer - Spelunky - Ninja_49
+  - first:
+      213: 5265437536813856500
+    second: PC Computer - Spelunky - Ninja_50
+  - first:
+      213: -3630908758655008083
+    second: PC Computer - Spelunky - Ninja_51
+  - first:
+      213: -7540584604902984903
+    second: PC Computer - Spelunky - Ninja_52
+  - first:
+      213: -9189457429790416606
+    second: PC Computer - Spelunky - Ninja_53
+  - first:
+      213: 1154676094684878171
+    second: PC Computer - Spelunky - Ninja_54
+  - first:
+      213: -1595579863685475691
+    second: PC Computer - Spelunky - Ninja_55
+  - first:
+      213: 1832018941185040081
+    second: PC Computer - Spelunky - Ninja_56
+  - first:
+      213: -2749843870294446661
+    second: PC Computer - Spelunky - Ninja_57
+  - first:
+      213: -7090935055547794376
+    second: PC Computer - Spelunky - Ninja_58
+  - first:
+      213: -7049804238152152906
+    second: PC Computer - Spelunky - Ninja_59
+  - first:
+      213: -3626195480808035353
+    second: PC Computer - Spelunky - Ninja_60
+  - first:
+      213: 7739151728263549344
+    second: PC Computer - Spelunky - Ninja_61
+  - first:
+      213: -129987051228196358
+    second: PC Computer - Spelunky - Ninja_62
+  - first:
+      213: -6598669481644875035
+    second: PC Computer - Spelunky - Ninja_63
+  - first:
+      213: -2621889098603485343
+    second: PC Computer - Spelunky - Ninja_64
+  - first:
+      213: 610382233244321466
+    second: PC Computer - Spelunky - Ninja_65
+  - first:
+      213: -7834306157676558820
+    second: PC Computer - Spelunky - Ninja_66
+  - first:
+      213: 8702311706139189733
+    second: PC Computer - Spelunky - Ninja_67
+  - first:
+      213: 1371046230275861017
+    second: PC Computer - Spelunky - Ninja_68
+  - first:
+      213: 8944609964916072493
+    second: PC Computer - Spelunky - Ninja_69
+  - first:
+      213: 2098643471145754341
+    second: PC Computer - Spelunky - Ninja_70
+  - first:
+      213: 1816638422459841792
+    second: PC Computer - Spelunky - Ninja_71
+  - first:
+      213: -2181502796633905095
+    second: PC Computer - Spelunky - Ninja_72
+  - first:
+      213: -758674139525776708
+    second: PC Computer - Spelunky - Ninja_73
+  - first:
+      213: 5464512336775902077
+    second: PC Computer - Spelunky - Ninja_74
+  - first:
+      213: -1927738830695808798
+    second: PC Computer - Spelunky - Ninja_75
+  - first:
+      213: -1626514755241478589
+    second: PC Computer - Spelunky - Ninja_76
+  - first:
+      213: 9132511126610750963
+    second: PC Computer - Spelunky - Ninja_77
+  - first:
+      213: -5418810365693922044
+    second: PC Computer - Spelunky - Ninja_78
+  - first:
+      213: -4622070414533781697
+    second: PC Computer - Spelunky - Ninja_79
+  - first:
+      213: 3175825467295856450
+    second: PC Computer - Spelunky - Ninja_80
+  - first:
+      213: -374126741281558132
+    second: PC Computer - Spelunky - Ninja_81
+  - first:
+      213: 6341688311715950406
+    second: PC Computer - Spelunky - Ninja_82
+  - first:
+      213: -8358895474600433563
+    second: PC Computer - Spelunky - Ninja_83
+  - first:
+      213: -7359914243591754845
+    second: PC Computer - Spelunky - Ninja_84
+  - first:
+      213: -8691767321383425357
+    second: PC Computer - Spelunky - Ninja_85
+  - first:
+      213: 4802171694373908866
+    second: PC Computer - Spelunky - Ninja_86
+  - first:
+      213: 3587466954010161941
+    second: PC Computer - Spelunky - Ninja_87
+  - first:
+      213: -8890769889037694692
+    second: PC Computer - Spelunky - Ninja_88
+  - first:
+      213: 3896845694203733839
+    second: PC Computer - Spelunky - Ninja_89
+  - first:
+      213: -1755979982061746783
+    second: PC Computer - Spelunky - Ninja_90
+  - first:
+      213: -3133647316585907773
+    second: PC Computer - Spelunky - Ninja_91
+  - first:
+      213: 6419205376234791801
+    second: PC Computer - Spelunky - Ninja_92
+  - first:
+      213: 3910399549949225204
+    second: PC Computer - Spelunky - Ninja_93
+  - first:
+      213: -6402366287711055145
+    second: PC Computer - Spelunky - Ninja_94
+  - first:
+      213: -2298652685512340404
+    second: PC Computer - Spelunky - Ninja_95
+  - first:
+      213: -5107088302192707302
+    second: PC Computer - Spelunky - Ninja_96
+  - first:
+      213: 6867818183427271097
+    second: PC Computer - Spelunky - Ninja_97
+  - first:
+      213: -5949299360425882403
+    second: PC Computer - Spelunky - Ninja_98
+  - first:
+      213: -2600032264717312028
+    second: PC Computer - Spelunky - Ninja_99
+  - first:
+      213: -6786272828525986505
+    second: PC Computer - Spelunky - Ninja_100
+  - first:
+      213: 2428859386241409317
+    second: PC Computer - Spelunky - Ninja_101
+  - first:
+      213: 5793001656602177569
+    second: PC Computer - Spelunky - Ninja_102
+  - first:
+      213: -225219462326528982
+    second: PC Computer - Spelunky - Ninja_103
+  - first:
+      213: 1968896137896268690
+    second: PC Computer - Spelunky - Ninja_104
+  - first:
+      213: -552289942862865114
+    second: PC Computer - Spelunky - Ninja_105
+  - first:
+      213: 5332659950654975493
+    second: PC Computer - Spelunky - Ninja_106
+  - first:
+      213: -781345750690333643
+    second: PC Computer - Spelunky - Ninja_107
+  - first:
+      213: -2737764773576587508
+    second: PC Computer - Spelunky - Ninja_108
+  - first:
+      213: 1082663643183034544
+    second: PC Computer - Spelunky - Ninja_109
+  - first:
+      213: 7946820932381551764
+    second: PC Computer - Spelunky - Ninja_110
+  - first:
+      213: -1119830143851138481
+    second: PC Computer - Spelunky - Ninja_111
+  - first:
+      213: 2218881566915741808
+    second: PC Computer - Spelunky - Ninja_112
+  - first:
+      213: 142570194886928664
+    second: PC Computer - Spelunky - Ninja_113
+  - first:
+      213: 1860075244658120297
+    second: PC Computer - Spelunky - Ninja_114
+  - first:
+      213: 6223614254526070296
+    second: PC Computer - Spelunky - Ninja_115
+  - first:
+      213: -7572748986746412596
+    second: PC Computer - Spelunky - Ninja_116
+  - first:
+      213: 2234980569854191701
+    second: PC Computer - Spelunky - Ninja_117
+  - first:
+      213: 3269967010698115269
+    second: PC Computer - Spelunky - Ninja_118
+  - first:
+      213: -5408804803730021278
+    second: PC Computer - Spelunky - Ninja_119
+  - first:
+      213: 3401244051939674864
+    second: PC Computer - Spelunky - Ninja_120
+  - first:
+      213: -1527838820418011393
+    second: PC Computer - Spelunky - Ninja_121
+  - first:
+      213: 5603385309233243574
+    second: PC Computer - Spelunky - Ninja_122
+  - first:
+      213: -8446326855240615497
+    second: PC Computer - Spelunky - Ninja_123
+  - first:
+      213: 7088155508591941928
+    second: PC Computer - Spelunky - Ninja_124
+  - first:
+      213: 1469383771884651069
+    second: PC Computer - Spelunky - Ninja_125
+  - first:
+      213: 3359437074402762394
+    second: PC Computer - Spelunky - Ninja_126
+  - first:
+      213: 7060163108103450588
+    second: PC Computer - Spelunky - Ninja_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 950
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a959f83846a04880800000000000000
+      internalID: -8628714056918148696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 950
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c6a5312f55d700800000000000000
+      internalID: 564461924543546366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 950
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d296a3d09dd60a0800000000000000
+      internalID: -6886609604341846747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 950
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18649451f6e3a2e50800000000000000
+      internalID: 6785304435406489217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 950
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a78d2e34ee426ab0800000000000000
+      internalID: -5016360292734629983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 950
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240b96625c19ceba0800000000000000
+      internalID: -6058307122781114302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 950
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa496581b1e4dc70800000000000000
+      internalID: 8995062508329454252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 950
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f67a110734715120800000000000000
+      internalID: 2400827855955719921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 950
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f50df728f43c710800000000000000
+      internalID: 1712299705239625601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 950
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42827af33a0d159c0800000000000000
+      internalID: -3940138799406307292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 870
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2107793269067d9f0800000000000000
+      internalID: -443779840314216430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 870
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90881194c9dc5160800000000000000
+      internalID: 7015721757807509660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 870
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5688b44637139c6f0800000000000000
+      internalID: -663945098386765723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 870
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b8161aab6ba9e0800000000000000
+      internalID: -1609074063595490610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 870
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa34a6492014b3190800000000000000
+      internalID: -7981714435248340049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 870
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a8028440c8514e0800000000000000
+      internalID: -2011547708533208458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 870
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782c6ff72d3f08cf0800000000000000
+      internalID: -251933493717187961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 870
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0016d68edad69400800000000000000
+      internalID: 330692271938080779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 870
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83777be95e3c692f0800000000000000
+      internalID: -966369679046641864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 870
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc28e8a252ad2c600800000000000000
+      internalID: 487191562872062667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_20
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 870
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1298988bdf1db2820800000000000000
+      internalID: 2894638073168628001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 870
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085d171bf0b53d9e0800000000000000
+      internalID: -1597833319826729600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 790
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849b12118aa839e10800000000000000
+      internalID: 2203257097160866120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 790
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33158259496aa30d0800000000000000
+      internalID: -3442255808083504845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 798
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da863f31d8f6b2910800000000000000
+      internalID: 1813665926662547629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 799
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27da8c582a546510800000000000000
+      internalID: 1541456101865346859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 790
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a9cacd1cc5b58e0800000000000000
+      internalID: -1703666046328857990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 790
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d657938e6e4080800000000000000
+      internalID: -9201295477212522345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_28
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 791
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989c8b756bb678500800000000000000
+      internalID: 398405522945526153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 790
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2f7f64d2bcb4e00800000000000000
+      internalID: 1030140335108911832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_30
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 790
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81066a7dee275aeb0800000000000000
+      internalID: -4709231465200197608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_31
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 787
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c06d18f19713d70800000000000000
+      internalID: 9021124704829049877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 790
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234fe10331a0ff380800000000000000
+      internalID: -8935412058151783374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 710
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f47616bc4b6ba0800000000000000
+      internalID: -6094693325771311698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 710
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984d1393db5cf4f0800000000000000
+      internalID: -793658470059652976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 710
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06277ae77e128f30800000000000000
+      internalID: 4576253671745463819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 710
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb16aba8a538e70800000000000000
+      internalID: 9116229622606969868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 710
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12adbf30cc664dfd0800000000000000
+      internalID: -2318114881762764255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 710
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e7ca19871686770800000000000000
+      internalID: 8604234258559303227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_39
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 710
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c00315f7c54ebe0800000000000000
+      internalID: -1448931478213751763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_40
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 710
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07413b62fe1ab6000800000000000000
+      internalID: 30295871026566256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_41
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 702
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fe9556b16cad7e0800000000000000
+      internalID: -1739860485058465999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_42
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 704
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d575ee4cfbf6270800000000000000
+      internalID: 8246020295271865758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_43
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 706
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d953dca6584e60800000000000000
+      internalID: 7946696842775482937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_44
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 711
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a50c2a4b025ba20800000000000000
+      internalID: 3077401880574319134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 630
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddcb755b82d22eb0800000000000000
+      internalID: -4745999561418617380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 630
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a35bbe764a58f70800000000000000
+      internalID: 9188931380962474541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 630
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d89f981d014540800000000000000
+      internalID: 4990284261511190650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 630
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd351ce88056b6e0800000000000000
+      internalID: -1822180450218197555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_49
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 630
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aaee1f884da6eb0800000000000000
+      internalID: -4725731174332323269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 630
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f63cc0da87921940800000000000000
+      internalID: 5265437536813856500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_51
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 630
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2838ca8bb6c9dc0800000000000000
+      internalID: -3630908758655008083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_52
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 630
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9337af9e0467a5790800000000000000
+      internalID: -7540584604902984903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_53
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 630
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221a4cac72d787080800000000000000
+      internalID: -9189457429790416606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_54
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 630
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55d3565acb360010800000000000000
+      internalID: 1154676094684878171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_55
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 630
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592d246519c5bd9e0800000000000000
+      internalID: -1595579863685475691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 550
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de1f134583ac6910800000000000000
+      internalID: 1832018941185040081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 550
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd605bb19796d9d0800000000000000
+      internalID: -2749843870294446661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_58
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 550
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c75b8e220f79d90800000000000000
+      internalID: -7090935055547794376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_59
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 550
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c5e895601a2e90800000000000000
+      internalID: -7049804238152152906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 550
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb6f403c6a2dadc0800000000000000
+      internalID: -3626195480808035353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_61
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 550
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1dff93e7df66b60800000000000000
+      internalID: 7739151728263549344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_62
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 550
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af194223771323ef0800000000000000
+      internalID: -129987051228196358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_63
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 551
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a8545111dc64a0800000000000000
+      internalID: -6598669481644875035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_64
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 550
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167254591cd2d9bd0800000000000000
+      internalID: -2621889098603485343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_65
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 549
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6ccbd3863887800800000000000000
+      internalID: 610382233244321466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_66
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 550
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16880abe04f64390800000000000000
+      internalID: -7834306157676558820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_67
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 550
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e16621d362d4c870800000000000000
+      internalID: 8702311706139189733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 470
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2b36484fe60310800000000000000
+      internalID: 1371046230275861017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_69
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 470
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20ed3d5f53a12c70800000000000000
+      internalID: 8944609964916072493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_70
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 470
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eed5df2e11ef1d10800000000000000
+      internalID: 2098643471145754341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_71
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 470
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d7b00350ff53910800000000000000
+      internalID: 1816638422459841792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_72
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 470
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9386d1ab3ceb9b1e0800000000000000
+      internalID: -2181502796633905095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_73
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 470
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba7a45c3e5a875f0800000000000000
+      internalID: -758674139525776708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 467
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d737440a409d5db40800000000000000
+      internalID: 5464512336775902077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 468
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e046a04fbb4f35e0800000000000000
+      internalID: -1927738830695808798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_76
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 468
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34676ef92757d69e0800000000000000
+      internalID: -1626514755241478589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_77
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 468
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdafe8cb723dbe70800000000000000
+      internalID: 9132511126610750963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_78
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 468
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405fb97bea48cc4b0800000000000000
+      internalID: -5418810365693922044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_79
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 468
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371fde527b1bdfb0800000000000000
+      internalID: -4622070414533781697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 395
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247feceaf6cc21c20800000000000000
+      internalID: 3175825467295856450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_81
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 394
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8130f406b5decaf0800000000000000
+      internalID: -374126741281558132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_82
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 390
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f63187be3320850800000000000000
+      internalID: 6341688311715950406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_83
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 389
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56822d96adc3ffb80800000000000000
+      internalID: -8358895474600433563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_84
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 395
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab206d6df45cd990800000000000000
+      internalID: -7359914243591754845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_85
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 395
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa7921ca3a06780800000000000000
+      internalID: -8691767321383425357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_86
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 394
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281b79986bdb4a240800000000000000
+      internalID: 4802171694373908866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_87
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 390
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5137a3dff2e39c130800000000000000
+      internalID: 3587466954010161941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_88
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 390
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c194b2824e3ad9480800000000000000
+      internalID: -8890769889037694692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_89
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 395
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4726833380641630800000000000000
+      internalID: 3896845694203733839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 310
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a54388828181a7e0800000000000000
+      internalID: -1755979982061746783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 310
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c97a8b4e5c0384d0800000000000000
+      internalID: -3133647316585907773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_92
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 310
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973a0ce7749951950800000000000000
+      internalID: 6419205376234791801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_93
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 310
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f822982ca7844630800000000000000
+      internalID: 3910399549949225204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_94
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 310
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2db0358c93627a0800000000000000
+      internalID: -6402366287711055145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_95
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 310
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c0a02bf8b8910e0800000000000000
+      internalID: -2298652685512340404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_96
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 310
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1930476f3aff19b0800000000000000
+      internalID: -5107088302192707302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_97
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 307
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9a62520446f4f50800000000000000
+      internalID: 6867818183427271097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc4b5f90c7df6da0800000000000000
+      internalID: -5949299360425882403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_99
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 226
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef58f84e64daebd0800000000000000
+      internalID: -2600032264717312028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_100
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 227
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73db2d251d052d1a0800000000000000
+      internalID: -6786272828525986505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_101
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 227
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ea4e3eba05b120800000000000000
+      internalID: 2428859386241409317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 227
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120b5056050e46050800000000000000
+      internalID: 5793001656602177569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_103
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 227
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24d58f971cdfdcf0800000000000000
+      internalID: -225219462326528982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_104
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 226
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29312f21b9ce25b10800000000000000
+      internalID: 1968896137896268690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_105
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 226
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d53ae193fd558f0800000000000000
+      internalID: -552289942862865114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_106
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 227
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eedb2b8f9610a40800000000000000
+      internalID: 5332659950654975493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_107
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 227
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c7753fd2a1825f0800000000000000
+      internalID: -781345750690333643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_108
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 226
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c3689171810ad0800000000000000
+      internalID: -2737764773576587508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_109
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 226
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0b727e8d4660f00800000000000000
+      internalID: 1082663643183034544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_110
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 147
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cad30b887c84e60800000000000000
+      internalID: 7946820932381551764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_111
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 146
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f427af2da609570f0800000000000000
+      internalID: -1119830143851138481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_112
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 146
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078ccaa670d0bce10800000000000000
+      internalID: 2218881566915741808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_113
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 146
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8192bcd36d28af100800000000000000
+      internalID: 142570194886928664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_114
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 146
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9665855749050d910800000000000000
+      internalID: 1860075244658120297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 146
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e751cb038be5650800000000000000
+      internalID: 6223614254526070296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_116
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 146
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1e7cf2be038e690800000000000000
+      internalID: -7572748986746412596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_117
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 143
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5582f02acfe340f10800000000000000
+      internalID: 2234980569854191701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_118
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 144
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c838e3dba1416d20800000000000000
+      internalID: 3269967010698115269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_119
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 146
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264ee3620b010f4b0800000000000000
+      internalID: -5408804803730021278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_120
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 87
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa4646d175a33f20800000000000000
+      internalID: 3401244051939674864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_121
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffebeea00b60ccae0800000000000000
+      internalID: -1527838820418011393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b56d70304933cd40800000000000000
+      internalID: 5603385309233243574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_123
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 74
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b97a88c97e98ca80800000000000000
+      internalID: -8446326855240615497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_124
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 71
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d95261ef2e5260800000000000000
+      internalID: 7088155508591941928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_125
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3288e161cc446410800000000000000
+      internalID: 1469383771884651069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_126
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 78
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9edd09583e1f9e20800000000000000
+      internalID: 3359437074402762394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Ninja_127
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 66
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfe2d2c0fcbaf160800000000000000
+      internalID: 7060163108103450588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

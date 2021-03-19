@@ -1,0 +1,3188 @@
+fileFormatVersion: 2
+guid: beba531c4fc80334aac4cf95b2403c78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8992176908362749482
+    second: PC Computer - Spelunky - Cyclops_0
+  - first:
+      213: 198734205256009315
+    second: PC Computer - Spelunky - Cyclops_1
+  - first:
+      213: -4681053306134333569
+    second: PC Computer - Spelunky - Cyclops_2
+  - first:
+      213: -6239540924434289409
+    second: PC Computer - Spelunky - Cyclops_3
+  - first:
+      213: -8146064076768114898
+    second: PC Computer - Spelunky - Cyclops_4
+  - first:
+      213: -7290208081263873262
+    second: PC Computer - Spelunky - Cyclops_5
+  - first:
+      213: -4172356728855473627
+    second: PC Computer - Spelunky - Cyclops_6
+  - first:
+      213: 712961153893645643
+    second: PC Computer - Spelunky - Cyclops_7
+  - first:
+      213: 6286230908193474044
+    second: PC Computer - Spelunky - Cyclops_8
+  - first:
+      213: 1847376020130764251
+    second: PC Computer - Spelunky - Cyclops_9
+  - first:
+      213: -7776885235472949814
+    second: PC Computer - Spelunky - Cyclops_10
+  - first:
+      213: 726627998758695262
+    second: PC Computer - Spelunky - Cyclops_11
+  - first:
+      213: 830465582221984153
+    second: PC Computer - Spelunky - Cyclops_12
+  - first:
+      213: 6324262141416219177
+    second: PC Computer - Spelunky - Cyclops_13
+  - first:
+      213: 3458011282317172032
+    second: PC Computer - Spelunky - Cyclops_14
+  - first:
+      213: 2145924060541930444
+    second: PC Computer - Spelunky - Cyclops_15
+  - first:
+      213: -7845869629585414810
+    second: PC Computer - Spelunky - Cyclops_16
+  - first:
+      213: -4303511066515028954
+    second: PC Computer - Spelunky - Cyclops_17
+  - first:
+      213: -2089727941611812554
+    second: PC Computer - Spelunky - Cyclops_18
+  - first:
+      213: -2746509904768695611
+    second: PC Computer - Spelunky - Cyclops_19
+  - first:
+      213: -7421231032658216050
+    second: PC Computer - Spelunky - Cyclops_20
+  - first:
+      213: 4592038141298948206
+    second: PC Computer - Spelunky - Cyclops_21
+  - first:
+      213: 4503121220668734934
+    second: PC Computer - Spelunky - Cyclops_22
+  - first:
+      213: -1229270865129015798
+    second: PC Computer - Spelunky - Cyclops_23
+  - first:
+      213: 5490813357578749356
+    second: PC Computer - Spelunky - Cyclops_24
+  - first:
+      213: 1724290331888739544
+    second: PC Computer - Spelunky - Cyclops_25
+  - first:
+      213: -5129003898787371881
+    second: PC Computer - Spelunky - Cyclops_26
+  - first:
+      213: 5140134322168266957
+    second: PC Computer - Spelunky - Cyclops_27
+  - first:
+      213: 3744221835363219170
+    second: PC Computer - Spelunky - Cyclops_28
+  - first:
+      213: 4372171771228731085
+    second: PC Computer - Spelunky - Cyclops_29
+  - first:
+      213: -2797410144826738762
+    second: PC Computer - Spelunky - Cyclops_30
+  - first:
+      213: 3773355785425459156
+    second: PC Computer - Spelunky - Cyclops_31
+  - first:
+      213: 2905386005576053513
+    second: PC Computer - Spelunky - Cyclops_32
+  - first:
+      213: -8509205896792320493
+    second: PC Computer - Spelunky - Cyclops_33
+  - first:
+      213: 8496382170236254528
+    second: PC Computer - Spelunky - Cyclops_34
+  - first:
+      213: -8465283546701180074
+    second: PC Computer - Spelunky - Cyclops_35
+  - first:
+      213: -3994752664724550425
+    second: PC Computer - Spelunky - Cyclops_36
+  - first:
+      213: 541313992280840418
+    second: PC Computer - Spelunky - Cyclops_37
+  - first:
+      213: 1626282279013516063
+    second: PC Computer - Spelunky - Cyclops_38
+  - first:
+      213: 6902719937124103562
+    second: PC Computer - Spelunky - Cyclops_39
+  - first:
+      213: 3668990734964019973
+    second: PC Computer - Spelunky - Cyclops_40
+  - first:
+      213: 7116311151662849807
+    second: PC Computer - Spelunky - Cyclops_41
+  - first:
+      213: -9184939350987655844
+    second: PC Computer - Spelunky - Cyclops_42
+  - first:
+      213: -5228883413141434608
+    second: PC Computer - Spelunky - Cyclops_43
+  - first:
+      213: -2390605951311145665
+    second: PC Computer - Spelunky - Cyclops_44
+  - first:
+      213: 5190586805519642394
+    second: PC Computer - Spelunky - Cyclops_45
+  - first:
+      213: -1874260536172040007
+    second: PC Computer - Spelunky - Cyclops_46
+  - first:
+      213: 5743527374183094930
+    second: PC Computer - Spelunky - Cyclops_47
+  - first:
+      213: 1119831747428900394
+    second: PC Computer - Spelunky - Cyclops_48
+  - first:
+      213: 632800572024688790
+    second: PC Computer - Spelunky - Cyclops_49
+  - first:
+      213: 6250163241147229529
+    second: PC Computer - Spelunky - Cyclops_50
+  - first:
+      213: 6266086488790215525
+    second: PC Computer - Spelunky - Cyclops_51
+  - first:
+      213: 5266126887777178847
+    second: PC Computer - Spelunky - Cyclops_52
+  - first:
+      213: 4058960019743535366
+    second: PC Computer - Spelunky - Cyclops_53
+  - first:
+      213: -4245707555776215811
+    second: PC Computer - Spelunky - Cyclops_54
+  - first:
+      213: -3637926038631813240
+    second: PC Computer - Spelunky - Cyclops_55
+  - first:
+      213: -9205820373722112249
+    second: PC Computer - Spelunky - Cyclops_56
+  - first:
+      213: 5181507014394799910
+    second: PC Computer - Spelunky - Cyclops_57
+  - first:
+      213: 8659408763399569641
+    second: PC Computer - Spelunky - Cyclops_58
+  - first:
+      213: 164581340839852483
+    second: PC Computer - Spelunky - Cyclops_59
+  - first:
+      213: 4905709675744142166
+    second: PC Computer - Spelunky - Cyclops_60
+  - first:
+      213: 8764962231087403889
+    second: PC Computer - Spelunky - Cyclops_61
+  - first:
+      213: 8162725576158821961
+    second: PC Computer - Spelunky - Cyclops_62
+  - first:
+      213: 5867122832224878133
+    second: PC Computer - Spelunky - Cyclops_63
+  - first:
+      213: -5725918375065651309
+    second: PC Computer - Spelunky - Cyclops_64
+  - first:
+      213: 4630912377887595514
+    second: PC Computer - Spelunky - Cyclops_65
+  - first:
+      213: 1422635717119677860
+    second: PC Computer - Spelunky - Cyclops_66
+  - first:
+      213: 5424917062175879812
+    second: PC Computer - Spelunky - Cyclops_67
+  - first:
+      213: 1313142077654217487
+    second: PC Computer - Spelunky - Cyclops_68
+  - first:
+      213: -3024307016010545081
+    second: PC Computer - Spelunky - Cyclops_69
+  - first:
+      213: 7061833648758137448
+    second: PC Computer - Spelunky - Cyclops_70
+  - first:
+      213: 5525996271832049688
+    second: PC Computer - Spelunky - Cyclops_71
+  - first:
+      213: -2749645964429089049
+    second: PC Computer - Spelunky - Cyclops_72
+  - first:
+      213: 5043373217286188105
+    second: PC Computer - Spelunky - Cyclops_73
+  - first:
+      213: -3869898818118382854
+    second: PC Computer - Spelunky - Cyclops_74
+  - first:
+      213: 288149248831154642
+    second: PC Computer - Spelunky - Cyclops_75
+  - first:
+      213: -3168858882025074900
+    second: PC Computer - Spelunky - Cyclops_76
+  - first:
+      213: -1421458663988425414
+    second: PC Computer - Spelunky - Cyclops_77
+  - first:
+      213: -934362721519268110
+    second: PC Computer - Spelunky - Cyclops_78
+  - first:
+      213: -7921553948613533877
+    second: PC Computer - Spelunky - Cyclops_79
+  - first:
+      213: 6984172171905630138
+    second: PC Computer - Spelunky - Cyclops_80
+  - first:
+      213: 2479858334635682825
+    second: PC Computer - Spelunky - Cyclops_81
+  - first:
+      213: -8147341996850497864
+    second: PC Computer - Spelunky - Cyclops_82
+  - first:
+      213: 1604791941843971559
+    second: PC Computer - Spelunky - Cyclops_83
+  - first:
+      213: 906665293907268939
+    second: PC Computer - Spelunky - Cyclops_84
+  - first:
+      213: 973960889226353535
+    second: PC Computer - Spelunky - Cyclops_85
+  - first:
+      213: 3665976003019206775
+    second: PC Computer - Spelunky - Cyclops_86
+  - first:
+      213: -5946292172912676368
+    second: PC Computer - Spelunky - Cyclops_87
+  - first:
+      213: 2348373270817569318
+    second: PC Computer - Spelunky - Cyclops_88
+  - first:
+      213: 3156499815272717665
+    second: PC Computer - Spelunky - Cyclops_89
+  - first:
+      213: 5673584305464593093
+    second: PC Computer - Spelunky - Cyclops_90
+  - first:
+      213: -5648666784080139387
+    second: PC Computer - Spelunky - Cyclops_91
+  - first:
+      213: -1713209020335965966
+    second: PC Computer - Spelunky - Cyclops_92
+  - first:
+      213: 409958484574559451
+    second: PC Computer - Spelunky - Cyclops_93
+  - first:
+      213: -3640346801376278671
+    second: PC Computer - Spelunky - Cyclops_94
+  - first:
+      213: -4145256688847419288
+    second: PC Computer - Spelunky - Cyclops_95
+  - first:
+      213: 6181008032702969928
+    second: PC Computer - Spelunky - Cyclops_96
+  - first:
+      213: 8861567117096104286
+    second: PC Computer - Spelunky - Cyclops_97
+  - first:
+      213: -760141469905971542
+    second: PC Computer - Spelunky - Cyclops_98
+  - first:
+      213: 5176092397001204993
+    second: PC Computer - Spelunky - Cyclops_99
+  - first:
+      213: -5108555786962166528
+    second: PC Computer - Spelunky - Cyclops_100
+  - first:
+      213: 1800004038377465587
+    second: PC Computer - Spelunky - Cyclops_101
+  - first:
+      213: -2375924344802455979
+    second: PC Computer - Spelunky - Cyclops_102
+  - first:
+      213: 7197865570657268195
+    second: PC Computer - Spelunky - Cyclops_103
+  - first:
+      213: -2717229590922632440
+    second: PC Computer - Spelunky - Cyclops_104
+  - first:
+      213: -9147560531814507808
+    second: PC Computer - Spelunky - Cyclops_105
+  - first:
+      213: 651205556204026468
+    second: PC Computer - Spelunky - Cyclops_106
+  - first:
+      213: -2638627627566691633
+    second: PC Computer - Spelunky - Cyclops_107
+  - first:
+      213: -388974606244264900
+    second: PC Computer - Spelunky - Cyclops_108
+  - first:
+      213: -1210529934834992238
+    second: PC Computer - Spelunky - Cyclops_109
+  - first:
+      213: 5632605400774370158
+    second: PC Computer - Spelunky - Cyclops_110
+  - first:
+      213: 4180181468576316917
+    second: PC Computer - Spelunky - Cyclops_111
+  - first:
+      213: 533046753313413984
+    second: PC Computer - Spelunky - Cyclops_112
+  - first:
+      213: -2158367410668011562
+    second: PC Computer - Spelunky - Cyclops_113
+  - first:
+      213: -3175057626380910989
+    second: PC Computer - Spelunky - Cyclops_114
+  - first:
+      213: 6722323728888147027
+    second: PC Computer - Spelunky - Cyclops_115
+  - first:
+      213: 2904271033650833886
+    second: PC Computer - Spelunky - Cyclops_116
+  - first:
+      213: -4439489975319799094
+    second: PC Computer - Spelunky - Cyclops_117
+  - first:
+      213: 6930717933910210350
+    second: PC Computer - Spelunky - Cyclops_118
+  - first:
+      213: 363118539410312598
+    second: PC Computer - Spelunky - Cyclops_119
+  - first:
+      213: -3781294979191767040
+    second: PC Computer - Spelunky - Cyclops_120
+  - first:
+      213: 3110708968564778903
+    second: PC Computer - Spelunky - Cyclops_121
+  - first:
+      213: -4607812726148340943
+    second: PC Computer - Spelunky - Cyclops_122
+  - first:
+      213: -6420601613558976643
+    second: PC Computer - Spelunky - Cyclops_123
+  - first:
+      213: 6414851259609013037
+    second: PC Computer - Spelunky - Cyclops_124
+  - first:
+      213: 87813924774003020
+    second: PC Computer - Spelunky - Cyclops_125
+  - first:
+      213: -6111847997744618564
+    second: PC Computer - Spelunky - Cyclops_126
+  - first:
+      213: -2534144315196205517
+    second: PC Computer - Spelunky - Cyclops_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 949
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a269e6c6141aacc70800000000000000
+      internalID: 8992176908362749482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 950
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366010de4bb02c200800000000000000
+      internalID: 198734205256009315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 950
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77f131c1de890fb0800000000000000
+      internalID: -4681053306134333569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 950
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffce4957692b869a0800000000000000
+      internalID: -6239540924434289409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 950
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e278aa2c1ed53fe80800000000000000
+      internalID: -8146064076768114898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 950
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213b591106af3da90800000000000000
+      internalID: -7290208081263873262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 950
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522db5449afc816c0800000000000000
+      internalID: -4172356728855473627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 950
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dbb7c5462f4e900800000000000000
+      internalID: 712961153893645643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 950
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf504f284bd2d3750800000000000000
+      internalID: 6286230908193474044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 950
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd51876d3b233a910800000000000000
+      internalID: 1847376020130764251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 870
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd97a00514f21490800000000000000
+      internalID: -7776885235472949814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 870
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e517dd5a050851a00800000000000000
+      internalID: 726627998758695262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 870
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991878a0c08668b00800000000000000
+      internalID: 830465582221984153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 870
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922a09509ea44c750800000000000000
+      internalID: 6324262141416219177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 870
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ddecf90f25dff20800000000000000
+      internalID: 3458011282317172032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 871
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbc09f309ad7cd10800000000000000
+      internalID: 2145924060541930444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 870
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665298e142fdd1390800000000000000
+      internalID: -7845869629585414810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 870
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624c8696c7bd644c0800000000000000
+      internalID: -4303511066515028954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 870
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639050b428bcff2e0800000000000000
+      internalID: -2089727941611812554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 870
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c28b221bcf62e9d0800000000000000
+      internalID: -2746509904768695611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_20
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 870
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b3d46f1bd720990800000000000000
+      internalID: -7421231032658216050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 870
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683b2f1c523abf30800000000000000
+      internalID: 4592038141298948206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 790
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddbb7244ec4e7e30800000000000000
+      internalID: 4503121220668734934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 791
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a067f3f39a0c0fee0800000000000000
+      internalID: -1229270865129015798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 798
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5837a38a9433c40800000000000000
+      internalID: 5490813357578749356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 798
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d46ed1dbe8ede710800000000000000
+      internalID: 1724290331888739544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 788
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7946f21f02e12d8b0800000000000000
+      internalID: -5129003898787371881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 790
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc002a2beec655740800000000000000
+      internalID: 5140134322168266957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 791
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f519ebe526f330800000000000000
+      internalID: 3744221835363219170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_29
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 790
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63419af031dac30800000000000000
+      internalID: 4372171771228731085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_30
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 790
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7378a6b4a9d29d0800000000000000
+      internalID: -2797410144826738762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_31
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 787
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d713714817ad5430800000000000000
+      internalID: 3773355785425459156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 790
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90370cdbd21025820800000000000000
+      internalID: 2905386005576053513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 710
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d801125a39e980800000000000000
+      internalID: -8509205896792320493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 710
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049f4ec619639e570800000000000000
+      internalID: 8496382170236254528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 709
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653daeb1775458a80800000000000000
+      internalID: -8465283546701180074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 710
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec4c85dd99cf88c0800000000000000
+      internalID: -3994752664724550425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_37
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 710
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e819dd3532238700800000000000000
+      internalID: 541313992280840418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 711
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f130d19cd17b19610800000000000000
+      internalID: 1626282279013516063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_39
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 710
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f94ce5336bcf50800000000000000
+      internalID: 6902719937124103562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_40
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 710
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503dab162afdae230800000000000000
+      internalID: 3668990734964019973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_41
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 702
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd302e94732c260800000000000000
+      internalID: 7116311151662849807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_42
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 704
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55bfdcf25a888080800000000000000
+      internalID: -9184939350987655844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_43
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 706
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fc5c35d364f67b0800000000000000
+      internalID: -5228883413141434608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_44
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 711
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f351a22ad8cd2ded0800000000000000
+      internalID: -2390605951311145665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 631
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fe3ded23ba80840800000000000000
+      internalID: 5190586805519642394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 631
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0beecf8f94df5e0800000000000000
+      internalID: -1874260536172040007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 631
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a5aef57bb15bf40800000000000000
+      internalID: 5743527374183094930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 630
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e54b98a017a8f00800000000000000
+      internalID: 1119831747428900394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 629
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690123d74c828c800800000000000000
+      internalID: 632800572024688790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_50
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 630
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955e8c06a5a0db650800000000000000
+      internalID: 6250163241147229529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_51
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 630
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b2730667c95f650800000000000000
+      internalID: 6266086488790215525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_52
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 630
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd49718d08a051940800000000000000
+      internalID: 5266126887777178847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_53
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 630
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017356f1a2545830800000000000000
+      internalID: 4058960019743535366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_54
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 630
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df444c509773415c0800000000000000
+      internalID: -4245707555776215811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_55
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 630
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fe43cda8d738dc0800000000000000
+      internalID: -3637926038631813240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 550
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f5d36052b5e3080800000000000000
+      internalID: -9205820373722112249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_57
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 550
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62762324d2968e740800000000000000
+      internalID: 5181507014394799910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 550
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0065b04666c2870800000000000000
+      internalID: 8659408763399569641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 550
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9ba658bd5b84200800000000000000
+      internalID: 164581340839852483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_60
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 550
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6532de165f4941440800000000000000
+      internalID: 4905709675744142166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_61
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 550
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731eadd5b663a970800000000000000
+      internalID: 8764962231087403889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_62
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 551
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e31fdd9a3d74170800000000000000
+      internalID: 8162725576158821961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_63
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 551
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ef85c61253c6150800000000000000
+      internalID: 5867122832224878133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_64
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 550
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397745933937980b0800000000000000
+      internalID: -5725918375065651309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_65
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 550
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb13f5a54e444040800000000000000
+      internalID: 4630912377887595514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_66
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 551
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a593b3b5a73eb310800000000000000
+      internalID: 1422635717119677860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_67
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 550
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482f2fa535d294b40800000000000000
+      internalID: 5424917062175879812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 470
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b23623c7393210800000000000000
+      internalID: 1313142077654217487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 470
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74848fadac08706d0800000000000000
+      internalID: -3024307016010545081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_70
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 470
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8622121d94ca00260800000000000000
+      internalID: 7061833648758137448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_71
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 471
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818aeacc45840bc40800000000000000
+      internalID: 5525996271832049688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_72
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 470
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e62e18409b47d9d0800000000000000
+      internalID: -2749645964429089049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_73
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 470
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cef0e5839adf540800000000000000
+      internalID: 5043373217286188105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 467
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa895d478b5b4ac0800000000000000
+      internalID: -3869898818118382854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 468
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d960e21736bff300800000000000000
+      internalID: 288149248831154642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_76
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 468
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fcd89d2a3f504d0800000000000000
+      internalID: -3168858882025074900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_77
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 468
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d811650e6f54ce0800000000000000
+      internalID: -1421458663988425414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_78
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 468
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe0a742e0a7803f0800000000000000
+      internalID: -934362721519268110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_79
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 468
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f1cc767acf01290800000000000000
+      internalID: -7921553948613533877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 395
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf7a9c2693cce060800000000000000
+      internalID: 6984172171905630138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_81
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 394
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6049340a3a6220800000000000000
+      internalID: 2479858334635682825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_82
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 390
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6ba1ece93deee80800000000000000
+      internalID: -8147341996850497864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 387
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede400c4cd554610800000000000000
+      internalID: 1604791941843971559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_84
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 394
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b459485f74f159c00800000000000000
+      internalID: 906665293907268939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_85
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 395
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd57bb444348d00800000000000000
+      internalID: 973960889226353535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_86
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 394
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770f01760c920e230800000000000000
+      internalID: 3665976003019206775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_87
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 389
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1bad606c68a7da0800000000000000
+      internalID: -5946292172912676368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_88
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 389
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a7a1f2c09179020800000000000000
+      internalID: 2348373270817569318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_89
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 394
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d9aeeabd32ecb20800000000000000
+      internalID: 3156499815272717665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 310
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cac27aadde9cbe40800000000000000
+      internalID: 5673584305464593093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_91
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 310
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bea50ec77eb91b0800000000000000
+      internalID: -5648666784080139387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 310
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f831e419757938e0800000000000000
+      internalID: -1713209020335965966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_93
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 310
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc59b5d11770b500800000000000000
+      internalID: 409958484574559451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_94
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 310
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177ccbc1fd3ea7dc0800000000000000
+      internalID: -3640346801376278671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_95
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 310
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868007601071976c0800000000000000
+      internalID: -4145256688847419288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_96
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 310
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848b81fae0a57c550800000000000000
+      internalID: 6181008032702969928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_97
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 306
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51bbc7a75c9afa70800000000000000
+      internalID: 8861567117096104286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_98
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 228
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6163b4c5f6375f0800000000000000
+      internalID: -760141469905971542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_99
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 226
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1056bd76c9c25d740800000000000000
+      internalID: 5176092397001204993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 226
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d9adaf393ca19b0800000000000000
+      internalID: -5108555786962166528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 226
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6e1c5d226eaf810800000000000000
+      internalID: 1800004038377465587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_102
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 226
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ec8d68565070fd0800000000000000
+      internalID: -2375924344802455979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_103
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 227
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e17a00c994f3e360800000000000000
+      internalID: 7197865570657268195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_104
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 224
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80360e365167a4ad0800000000000000
+      internalID: -2717229590922632440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_105
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 226
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea10d389265d0180800000000000000
+      internalID: -9147560531814507808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_106
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 226
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a3d4dc00c890900800000000000000
+      internalID: 651205556204026468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_107
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 227
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca0b5c1726b16bd0800000000000000
+      internalID: -2638627627566691633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_108
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 224
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34c92018a51a9af0800000000000000
+      internalID: -388974606244264900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_109
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 226
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bfe2c1075533fe0800000000000000
+      internalID: -1210529934834992238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_110
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 147
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e636a19e4c80b2e40800000000000000
+      internalID: 5632605400774370158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_111
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 146
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd792be5ecf20a30800000000000000
+      internalID: 4180181468576316917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_112
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 144
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bdbeba233c56700800000000000000
+      internalID: 533046753313413984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_113
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 146
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df7a588640fb02e0800000000000000
+      internalID: -2158367410668011562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_114
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 146
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ebb2639edefe3d0800000000000000
+      internalID: -3175057626380910989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 146
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cae85a0dd7a4d50800000000000000
+      internalID: 6722323728888147027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_116
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 145
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9e63c1e1b0e4820800000000000000
+      internalID: 2904271033650833886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_117
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 142
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acad72d8363c362c0800000000000000
+      internalID: -4439489975319799094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_118
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 144
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27b5298d3bde2060800000000000000
+      internalID: 6930717933910210350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_119
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 145
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d09e0436e0a0500800000000000000
+      internalID: 363118539410312598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_120
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 87
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0008e462044268bc0800000000000000
+      internalID: -3781294979191767040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 74
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ecee53557b2b20800000000000000
+      internalID: 3110708968564778903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13367622db2cd00c0800000000000000
+      internalID: -4607812726148340943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_123
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 74
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f648ba9d075e6a0800000000000000
+      internalID: -6420601613558976643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_124
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 71
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b56f7bb31260950800000000000000
+      internalID: 6414851259609013037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_125
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41cc70ac4af73100800000000000000
+      internalID: 87813924774003020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_126
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 78
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3ef35c0aa5e2ba0800000000000000
+      internalID: -6111847997744618564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Cyclops_127
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 67
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336972bfb29e4dcd0800000000000000
+      internalID: -2534144315196205517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
