@@ -131,12 +131,7 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     }
 
-    // public void RespawnItens()
-    // {
-    //     float respRange = Random.Range(-25f, 25f);
-    //     Ite.transform.localPosition = new Vector2(respRange, 4f);
-
-    // }
+    
     private void PauseScreen()
     {
         if (Off && Input.GetKeyDown(KeyCode.Escape))

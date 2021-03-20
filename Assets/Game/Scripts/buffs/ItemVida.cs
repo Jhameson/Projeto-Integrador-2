@@ -17,7 +17,7 @@ public class ItemVida : MonoBehaviourPunCallbacks
     public void DestroyObject()
      {
         
-        PhotonNetwork.Destroy(gameObject);
+        Destroy(gameObject);
     }
     
 

@@ -84,23 +84,24 @@ public class Player : MonoBehaviourPunCallbacks
     public void EnableShield()
      {
          RunItens = true;
-         DesabilitarCollisor();
+         //DesabilitarCollisor();
+         bcr.enabled = false;
          escudo.SetActive(true);
         
     }
 
     
-    private void DesabilitarCollisor()
-    {
-         bcr.enabled = false;
-         Debug.Log("false");
-    }
+    // private void DesabilitarCollisor()
+    // {
+    //      bcr.enabled = false;
+    //      //Debug.Log("false");
+    // }
 
-   
-    private void HabilitarCollisor()
+    [PunRPC]
+    public void HabilitarCollisor()
     {
          bcr.enabled = true;
-         Debug.Log("true");
+         //Debug.Log("true");
     }
 
     //////////////////////////////////////////////// CRONOMETRO para itens

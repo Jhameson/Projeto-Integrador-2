@@ -17,7 +17,7 @@ public class ItemBuffVel : MonoBehaviourPunCallbacks
     public void DestroyObject()
      {
         
-        Destroy(this.gameObject);
+       Destroy(gameObject);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

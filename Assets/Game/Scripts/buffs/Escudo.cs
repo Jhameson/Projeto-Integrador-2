@@ -17,7 +17,7 @@ public class Escudo : MonoBehaviourPunCallbacks
     public void DestroyObject()
      {
         
-        PhotonNetwork.Destroy(gameObject);
+        Destroy(gameObject);
     }
     
 
