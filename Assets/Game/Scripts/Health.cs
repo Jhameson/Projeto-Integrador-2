@@ -60,6 +60,7 @@ public class Health : MonoBehaviourPunCallbacks
         plMove.DisableInput = false;
     }
 
+    
 
     [PunRPC]
     private void Dead()

@@ -36,9 +36,11 @@ public class Player : MonoBehaviourPunCallbacks
     public bool DisableInput = false;
     public bool isGrounded = false;
 
-    /////////////ietns
-    // private float tempoItem= 5f;
-    // private bool RunItens = false;
+    /////////////itens
+    private float tempoItem= 5f;
+    private bool RunItens = false;
+
+    public BoxCollider2D bcr;
 
     private void Awake()
     {
@@ -72,20 +74,35 @@ public class Player : MonoBehaviourPunCallbacks
             Jump();
 
         }
-        // if(RunItens){
-        //     contagemEscudo();
-        // }
+        if(RunItens){
+            contagemEscudo();
+        }
 
     }
 
-    // [PunRPC]
-    // public void enableShield(bool valor)
-    //  {
-    //     //  RunItens = true;
+    [PunRPC]
+    public void EnableShield()
+     {
+         RunItens = true;
+         DesabilitarCollisor();
+         escudo.SetActive(true);
         
-    //     escudo.SetActive(valor);
-        
-    // }
+    }
+
+    
+    private void DesabilitarCollisor()
+    {
+         bcr.enabled = false;
+         Debug.Log("false");
+    }
+
+   
+    private void HabilitarCollisor()
+    {
+         bcr.enabled = true;
+         Debug.Log("true");
+    }
+
     //////////////////////////////////////////////// CRONOMETRO para itens
     // public void contadorItens()
     // {
@@ -95,15 +112,17 @@ public class Player : MonoBehaviourPunCallbacks
     // }
 
     // //////////////////////////////////////////////// CONTAGEM ESCUDO
-    // private void contagemEscudo()
-    // {
-    //     tempoItem -= Time.deltaTime;
-    //     if(tempoItem<=0)
-    //     {
-    //             enableShield(false);
-    //             RunItens = false;
-    //     }
-    // }
+    private void contagemEscudo()
+    {
+        tempoItem -= Time.deltaTime;
+        if(tempoItem<=0)
+        {
+                escudo.SetActive(false);
+                RunItens = false;
+                tempoItem= 5f;
+                HabilitarCollisor();
+        }
+    }
     /////////////////////////////////////////////
     private void Shoot()
     {

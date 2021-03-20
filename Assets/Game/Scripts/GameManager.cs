@@ -25,6 +25,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     
     [HideInInspector]
     public GameObject LocalPlayer;
+    public GameObject Itens;
     
     public Text RespawnTimerText;
     
@@ -95,6 +96,11 @@ public class GameManager : MonoBehaviourPunCallbacks
             FimdoGame();
         }
     }
+
+
+    
+
+
     public void EnableRespawn()
     {
         TimerAmount = 2f;
@@ -124,6 +130,13 @@ public class GameManager : MonoBehaviourPunCallbacks
         LocalPlayer.transform.localPosition = new Vector2(respRange, 4f);
 
     }
+
+    // public void RespawnItens()
+    // {
+    //     float respRange = Random.Range(-25f, 25f);
+    //     Ite.transform.localPosition = new Vector2(respRange, 4f);
+
+    // }
     private void PauseScreen()
     {
         if (Off && Input.GetKeyDown(KeyCode.Escape))

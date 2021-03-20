@@ -204,7 +204,7 @@ MonoBehaviour:
   PlayerNameText: {fileID: 3883967410411225533}
   pV: {fileID: 8999135502400491063}
   rb: {fileID: 3923737092664098085}
-  anim: {fileID: 0}
+  anim: {fileID: 9148022858000554133}
   PlayerCamera: {fileID: 7116288681830898866}
   sr: {fileID: 6814558173799177392}
   BulletObject: {fileID: 4836139688607324987, guid: 9164e2621f0dc8541abc70575864957f,
