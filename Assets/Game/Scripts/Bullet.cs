@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 using Photon.Pun;
 using Photon.Realtime;
 using Photon.Pun.UtilityScripts;
+using UnityEngine.Tilemaps;
 
 public class Bullet : MonoBehaviourPunCallbacks
 {
@@ -19,7 +20,7 @@ public class Bullet : MonoBehaviourPunCallbacks
 
    public float BulletDamage;
  
-
+    Tilemap tilemap;
    private void Awake()
    {
        StartCoroutine("DestroyByTime");
@@ -56,6 +57,10 @@ public class Bullet : MonoBehaviourPunCallbacks
             transform.Translate(Vector2.left * MoveSpeed * Time.deltaTime);
     }
 
+    
+        
+        
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(!photonView.IsMine)
@@ -70,16 +75,21 @@ public class Bullet : MonoBehaviourPunCallbacks
             {
                 target.RPC("ReduceHealth",RpcTarget.AllBuffered,BulletDamage);
                PhotonNetwork.LocalPlayer.AddScore(1);
-                }
-            if (target.tag == "chao" || target.tag == "Player")
+            }
+            if (target.tag == "Chao" || target.tag == "Player" || target.tag == "Escudo")
             {
+                Debug.Log("aquiii");
                 this.GetComponent<PhotonView>().RPC("DestroyObject", Photon.Pun.RpcTarget.AllBuffered);
             }
            
         }
-    }
 
-   
+        
+    }
+    
+
+    
+     
 
 
 }

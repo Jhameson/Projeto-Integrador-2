@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3234525187456646512}
   - component: {fileID: 3234525187456646519}
   m_Layer: 0
-  m_Name: pulo (6)
+  m_Name: item_pulo
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

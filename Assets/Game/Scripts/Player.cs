@@ -37,7 +37,7 @@ public class Player : MonoBehaviourPunCallbacks
     public bool isGrounded = false;
 
     /////////////itens
-    private float tempoItem= 5f;
+    private float tempoItem= 10f;
     private bool RunItens = false;
 
     public BoxCollider2D bcr;
@@ -81,12 +81,12 @@ public class Player : MonoBehaviourPunCallbacks
     }
 
     [PunRPC]
-    public void EnableShield()
+    public void EnableShield(bool valor)
      {
          RunItens = true;
          //DesabilitarCollisor();
-         bcr.enabled = false;
-         escudo.SetActive(true);
+         
+         escudo.SetActive(valor);
         
     }
 
@@ -97,12 +97,7 @@ public class Player : MonoBehaviourPunCallbacks
     //      //Debug.Log("false");
     // }
 
-    [PunRPC]
-    public void HabilitarCollisor()
-    {
-         bcr.enabled = true;
-         //Debug.Log("true");
-    }
+    
 
     //////////////////////////////////////////////// CRONOMETRO para itens
     // public void contadorItens()
@@ -118,10 +113,10 @@ public class Player : MonoBehaviourPunCallbacks
         tempoItem -= Time.deltaTime;
         if(tempoItem<=0)
         {
-                escudo.SetActive(false);
+                EnableShield(false);
                 RunItens = false;
                 tempoItem= 5f;
-                HabilitarCollisor();
+                
         }
     }
     /////////////////////////////////////////////

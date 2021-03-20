@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5315044166243684}
   - component: {fileID: 5315044166243683}
   m_Layer: 0
-  m_Name: item
+  m_Name: item_velocidade
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

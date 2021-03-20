@@ -33,7 +33,7 @@ public class Escudo : MonoBehaviourPunCallbacks
         if(target.tag == "Player")
         {
             //target.RPC("RaiseHealth",RpcTarget.AllBuffered,vida);
-            target.RPC("EnableShield",RpcTarget.AllBuffered);
+            target.RPC("EnableShield",RpcTarget.AllBuffered, true);
             //collision.gameObject.GetComponent<Health>().RaiseHealth(vida);
              this.GetComponent<PhotonView>().RPC("DestroyObject", Photon.Pun.RpcTarget.AllBuffered);
              
