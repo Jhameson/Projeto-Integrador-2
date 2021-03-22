@@ -1,4 +1,4 @@
-![duvidas](https://user-images.githubusercontent.com/55859005/111939936-487b9a00-8aac-11eb-9a3a-f3a616d2930e.png)
+
 
 # Projeto Integrador 2
 ### Neste projeto foi desenvolvido um jogo multiplayer utilizando: 
@@ -8,6 +8,9 @@
 ### Telas que estão no jogo:
 - Tela inicial onde poder ser colocado o Nickname:
 ![inicial](https://user-images.githubusercontent.com/55859005/111939969-5a5d3d00-8aac-11eb-9c0e-53dd8876d1f9.png)
+
+- Tela que exibe os comandos a serem utilizados:
+![duvidas](https://user-images.githubusercontent.com/55859005/111939936-487b9a00-8aac-11eb-9a3a-f3a616d2930e.png)
 
 - Tela de criação de salas ou entrar em uma sala já existente:
 ![salas](https://user-images.githubusercontent.com/55859005/111939978-60531e00-8aac-11eb-88c9-a698feb0d08b.png)
