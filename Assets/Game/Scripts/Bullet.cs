@@ -19,6 +19,8 @@ public class Bullet : MonoBehaviourPunCallbacks
    public float DestroyTime ;
 
    public float BulletDamage;
+
+   public static bool imuneColisão;
  
     Tilemap tilemap;
    private void Awake()
@@ -58,6 +60,12 @@ public class Bullet : MonoBehaviourPunCallbacks
     }
 
     
+   
+//    public void Imune(bool valor)
+//    {
+//        imuneColisão = valor;
+//        Debug.Log("aqui");
+//    }
         
         
 
@@ -71,7 +79,7 @@ public class Bullet : MonoBehaviourPunCallbacks
 
         if(target != null && (!target.IsMine || target.IsSceneView))
         {
-            if(target.tag == "Player")
+            if(target.tag == "Player" && imuneColisão==false)
             {
                 target.RPC("ReduceHealth",RpcTarget.AllBuffered,BulletDamage);
                PhotonNetwork.LocalPlayer.AddScore(1);

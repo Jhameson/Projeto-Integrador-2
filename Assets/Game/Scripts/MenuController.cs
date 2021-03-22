@@ -18,7 +18,7 @@ public class MenuController : MonoBehaviourPunCallbacks
     
     [SerializeField] private GameObject BtnStart;
     
-
+     [SerializeField] private GameObject InstrucoesPanel;
 
 
     private void Awake()
@@ -47,6 +47,10 @@ public class MenuController : MonoBehaviourPunCallbacks
         {
             BtnStart.SetActive(false);
         }
+    }
+
+    public void Duvidas(){
+        InstrucoesPanel.SetActive(true);
     }
 
     public void SetUserName()

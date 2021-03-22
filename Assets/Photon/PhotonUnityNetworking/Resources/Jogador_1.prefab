@@ -414,7 +414,6 @@ MonoBehaviour:
   escudo: {fileID: 6792169505565669841}
   DisableInput: 0
   isGrounded: 0
-  bcr: {fileID: 6749419090042147473}
 --- !u!114 &559238350701387716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -474,7 +473,6 @@ MonoBehaviour:
   plMove: {fileID: 466167349699084065}
   PlayerCanvas: {fileID: 1268127136804619873}
   FillImage: {fileID: 6442260095154089705}
-  kill: 0
 --- !u!70 &654288499936675824
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

@@ -12,6 +12,7 @@ using Photon.Realtime;
 public class ItemVida : MonoBehaviourPunCallbacks
 {
     public float vida ;
+   
 
     [PunRPC]
     public void DestroyObject()

@@ -21,7 +21,7 @@ public class Health : MonoBehaviourPunCallbacks
     public GameObject PlayerCanvas;
     // 
     public Image FillImage;
-    public bool kill=false;
+    //public bool kill=false;
 
 
     private void Awake()

@@ -25,7 +25,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     
     [HideInInspector]
     public GameObject LocalPlayer;
-    public GameObject Itens;
+    // public GameObject Itens;
     
     public Text RespawnTimerText;
     

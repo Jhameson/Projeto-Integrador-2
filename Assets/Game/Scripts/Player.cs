@@ -40,7 +40,7 @@ public class Player : MonoBehaviourPunCallbacks
     private float tempoItem= 10f;
     private bool RunItens = false;
 
-    public BoxCollider2D bcr;
+    // public BoxCollider2D bcr;
 
     private void Awake()
     {
@@ -83,10 +83,9 @@ public class Player : MonoBehaviourPunCallbacks
     [PunRPC]
     public void EnableShield(bool valor)
      {
-         RunItens = true;
-         //DesabilitarCollisor();
-         
+         RunItens = true;        
          escudo.SetActive(valor);
+         Bullet.imuneColisão = true;
         
     }
 
@@ -116,6 +115,7 @@ public class Player : MonoBehaviourPunCallbacks
                 EnableShield(false);
                 RunItens = false;
                 tempoItem= 5f;
+                Bullet.imuneColisão = false;
                 
         }
     }
