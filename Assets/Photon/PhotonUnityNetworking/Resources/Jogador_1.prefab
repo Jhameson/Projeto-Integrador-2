@@ -411,9 +411,12 @@ MonoBehaviour:
     type: 3}
   FirePos: {fileID: 1077765091029363446}
   FirePosLeft: {fileID: 924439952601382168}
-  escudo: {fileID: 6792169505565669841}
   DisableInput: 0
   isGrounded: 0
+  escudo: {fileID: 6792169505565669841}
+  tempoEscudo: 10
+  tempoVelocidade: 5
+  tempoJump: 5
 --- !u!114 &559238350701387716
 MonoBehaviour:
   m_ObjectHideFlags: 0

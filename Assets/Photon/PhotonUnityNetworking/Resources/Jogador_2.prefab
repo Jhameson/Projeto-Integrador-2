@@ -379,7 +379,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MoveSpeed: 4
-  JumpForce: 590
+  JumpForce: 600
   PlayerNameText: {fileID: 1852416652}
   pV: {fileID: 5261829198889676038}
   rb: {fileID: 258242092657843732}
@@ -392,9 +392,12 @@ MonoBehaviour:
     type: 3}
   FirePos: {fileID: 2264667719177018537}
   FirePosLeft: {fileID: 2111361204641581895}
-  escudo: {fileID: 4893321131036626610}
   DisableInput: 0
   isGrounded: 0
+  escudo: {fileID: 4893321131036626610}
+  tempoEscudo: 8
+  tempoVelocidade: 10
+  tempoJump: 10
 --- !u!114 &1611051408048318875
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -26,19 +26,25 @@ public class Player : MonoBehaviourPunCallbacks
     public GameObject PlayerCamera;
     public SpriteRenderer sr;
 
+    [Header("Projeteis")]
     public GameObject BulletObject;
     public GameObject BulletObjectLeft;
     public Transform FirePos;
-    public Transform FirePosLeft;
-
-    public GameObject escudo;
+    public Transform FirePosLeft;   
 
     public bool DisableInput = false;
     public bool isGrounded = false;
 
+    [Header("Buffs")]
     /////////////itens
-    private float tempoItem= 10f;
-    private bool RunItens = false;
+    public GameObject escudo;
+    public float tempoEscudo; //tempo do escudo
+    public float tempoVelocidade; //tempo de velocidade
+    public float tempoJump;
+
+    private bool RunEscudo = false;
+    private bool RunVelocidade = false;
+    private bool RunJump = false;
 
     // public BoxCollider2D bcr;
 
@@ -74,8 +80,14 @@ public class Player : MonoBehaviourPunCallbacks
             Jump();
 
         }
-        if(RunItens){
+        if(RunEscudo){
             contagemEscudo();
+        }
+        if(RunVelocidade){
+            contagemVelocidade();
+        }
+        if(RunJump){
+            contagemJump();
         }
 
     }
@@ -83,38 +95,66 @@ public class Player : MonoBehaviourPunCallbacks
     [PunRPC]
     public void EnableShield(bool valor)
      {
-         RunItens = true;        
+         RunEscudo = true;        
          escudo.SetActive(valor);
          Bullet.imuneColisão = true;
         
     }
 
+    [PunRPC] 
+    public void Buffvel(float valor){
+        RunVelocidade = true;
+        MoveSpeed += valor;
+    }
     
-    // private void DesabilitarCollisor()
-    // {
-    //      bcr.enabled = false;
-    //      //Debug.Log("false");
-    // }
 
+    [PunRPC] 
+    public void Buffjump(float valor){
+        RunEscudo = true;
+        JumpForce +=valor;
+    }
     
+
 
     //////////////////////////////////////////////// CRONOMETRO para itens
-    // public void contadorItens()
-    // {
-    //     tempoItem = 5f;
-    //    RunItens = true;
-    //     // RespawnMenu.SetActive(true);
-    // }
+     private void contagemVelocidade()
+    {
+       
+        tempoVelocidade -= Time.deltaTime;
+        if(tempoVelocidade<=0)
+        {
+                Buffvel(-2f);
+                tempoVelocidade = 5f;
+                RunVelocidade = false;
+                
+                               
+        }
+    }
+
+    //////////////////////////////////////////////// CRONOMETRO para itens
+     private void contagemJump()
+    {
+        
+        tempoJump -= Time.deltaTime;
+        if(tempoJump<=0)
+        {
+                Buffjump(-40f);
+                tempoJump = 8f;
+                RunJump = false;
+                                    
+        }
+    }
 
     // //////////////////////////////////////////////// CONTAGEM ESCUDO
     private void contagemEscudo()
     {
-        tempoItem -= Time.deltaTime;
-        if(tempoItem<=0)
+        
+        tempoEscudo -= Time.deltaTime;
+        if(tempoEscudo<=0)
         {
                 EnableShield(false);
-                RunItens = false;
-                tempoItem= 5f;
+                RunEscudo = false;
+                tempoEscudo= 10f;
                 Bullet.imuneColisão = false;
                 
         }
@@ -212,19 +252,5 @@ public class Player : MonoBehaviourPunCallbacks
             isJumping = false;
         }
     }
-     [PunRPC] 
-    public void Buffvel(float valor){
-        aumentar(valor);
-    }
-    public void aumentar(float valor){
-        MoveSpeed += valor;
-    }
-
-    [PunRPC] 
-    public void Buffjump(float valor){
-        aumentarJump(valor);
-    }
-    public void aumentarJump(float valor){
-        JumpForce +=valor;
-    }
+     
 }
