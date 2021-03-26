@@ -17,6 +17,7 @@ public class MenuController : MonoBehaviourPunCallbacks
     [SerializeField] private InputField JoinGameInput;
     
     [SerializeField] private GameObject BtnStart;
+    [SerializeField] private GameObject BtnSair;
     
      [SerializeField] private GameObject InstrucoesPanel;
 
@@ -69,7 +70,8 @@ public class MenuController : MonoBehaviourPunCallbacks
     {
         RoomOptions roomOptions = new RoomOptions();
         roomOptions.MaxPlayers = 5;
-        PhotonNetwork.JoinOrCreateRoom(JoinGameInput.text, roomOptions, TypedLobby.Default);
+        //PhotonNetwork.JoinOrCreateRoom(JoinGameInput.text, roomOptions, TypedLobby.Default);
+         PhotonNetwork.JoinRoom(JoinGameInput.text);
     }
 
     public  override void OnJoinedRoom()
@@ -77,6 +79,11 @@ public class MenuController : MonoBehaviourPunCallbacks
         PhotonNetwork.LoadLevel("TelaGame");
     }
 
-    
+    public void QuitGame()
+    {
+        
+        Application.Quit();
+       
+    }
 
 }

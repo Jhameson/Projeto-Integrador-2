@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: myAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300146, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300158, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300226, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300230, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300174, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300224, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300150, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300148, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300154, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300152, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300166, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300156, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300168, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300050, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300110, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300060, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300058, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300064, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300112, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300066, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300042, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300178, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300100, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300098, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300096, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300094, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300092, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300090, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300232, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300088, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300086, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300242, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300162, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300144, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300128, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300114, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300054, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300036, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300176, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300138, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300164, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300140, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300134, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300136, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300182, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300034, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300052, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300070, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300126, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300142, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300160, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300184, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300072, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300080, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300082, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300014, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300170, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300074, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300076, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300172, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300218, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300220, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300222, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300228, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300124, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300122, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300120, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300118, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300116, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300044, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300180, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300240, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300056, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300192, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300190, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300188, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300186, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300244, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300198, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300196, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300194, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300238, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300216, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300208, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300214, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300204, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300206, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300200, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300202, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300068, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300130, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300234, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  - {fileID: 21300236, guid: 6e1db66fc7e57884380659e0a55351f0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tileset_Rock_FloorCornerSingleBlockLeft
+  - Tileset_Rock_FloorCornerSingleBlockRight
+  - Tileset_Rock_SingleBlockCorner_Left
+  - Tileset_Rock_WallLeftCornerGrass
+  - Tileset_Rock_FloorCornerOuterRight
+  - Tileset_Rock_SingleColumnBottom
+  - Tileset_Rock_FloorSingleBlock1
+  - Tileset_Rock_FloorSingleBlock0
+  - Tileset_Rock_FloorSingleBlock3
+  - Tileset_Rock_FloorSingleBlock2
+  - Tileset_Rock_FloorSingleBlock5
+  - Tileset_Rock_FloorSingleBlock4
+  - Tileset_Rock_FloorSingleBlock6
+  - Tileset_Rock_Ceiling1
+  - Tileset_Rock_Ceiling0
+  - Tileset_Rock_Ceiling3
+  - Tileset_Rock_Ceiling2
+  - Tileset_Rock_Ceiling5
+  - Tileset_Rock_Ceiling4
+  - Tileset_Rock_Ceiling6
+  - Tileset_Rock_Fill9
+  - Tileset_Rock_Fill8
+  - Tileset_Rock_Fill7
+  - Tileset_Rock_Fill6
+  - Tileset_Rock_Fill5
+  - Tileset_Rock_Fill4
+  - Tileset_Rock_Fill3
+  - Tileset_Rock_Fill2
+  - Tileset_Rock_WallCornerRightGrass
+  - Tileset_Rock_Fill1
+  - Tileset_Rock_Fill0
+  - Tileset_Rock_CeilingCornerGrassSingleLeft
+  - Tileset_Rock_WallLeft6
+  - Tileset_Rock_WallLeft5
+  - Tileset_Rock_WallLeft4
+  - Tileset_Rock_WallLeft3
+  - Tileset_Rock_WallLeft2
+  - Tileset_Rock_WallLeft1
+  - Tileset_Rock_WallLeft0
+  - Tileset_Rock_FloorCornerInnerLeft2
+  - Tileset_Rock_FloorSingleBlockLeft
+  - Tileset_Rock_FloorCornerInnerLeft3
+  - Tileset_Rock_FloorCornerInnerLeft0
+  - Tileset_Rock_FloorCornerInnerLeft1
+  - Tileset_Rock_FloorSingleBlockRight
+  - Tileset_Rock_WallRight0
+  - Tileset_Rock_WallRight1
+  - Tileset_Rock_WallRight2
+  - Tileset_Rock_WallRight3
+  - Tileset_Rock_WallRight4
+  - Tileset_Rock_WallRight5
+  - Tileset_Rock_WallRight6
+  - Tileset_Rock_FloorCornerOuterLeft
+  - Tileset_Rock_Floor4
+  - Tileset_Rock_Floor5
+  - Tileset_Rock_Floor6
+  - Tileset_Rock_Floor0
+  - Tileset_Rock_Floor1
+  - Tileset_Rock_Floor2
+  - Tileset_Rock_Floor3
+  - Tileset_Rock_SingleColumn0
+  - Tileset_Rock_SingleColumn1
+  - Tileset_Rock_SingleColumn2
+  - Tileset_Rock_SingleBlockCorner_Right
+  - Tileset_Rock_FloorCornerInnerRight3
+  - Tileset_Rock_FloorCornerInnerRight2
+  - Tileset_Rock_FloorCornerInnerRight1
+  - Tileset_Rock_FloorCornerInnerRight0
+  - Tileset_Rock_FloorSingleBlock
+  - Tileset_Rock_Fill10
+  - Tileset_Rock_Fill11
+  - Tileset_Rock_SingleColumnCentreCeiling
+  - Tileset_Rock_CeilingCornerOuterLeft
+  - Tileset_Rock_WallLeftCeilingCorner3
+  - Tileset_Rock_WallLeftCeilingCorner2
+  - Tileset_Rock_WallLeftCeilingCorner1
+  - Tileset_Rock_WallLeftCeilingCorner0
+  - Tileset_Rock_CeilingCornerGrassSingleRight
+  - Tileset_Rock_WallLeftCeilingCorner6
+  - Tileset_Rock_WallLeftCeilingCorner5
+  - Tileset_Rock_WallLeftCeilingCorner4
+  - Tileset_Rock_CeilingCornerGrassLeft
+  - Tileset_Rock_WallRightCeilingCorner6
+  - Tileset_Rock_WallRightCeilingCorner4
+  - Tileset_Rock_WallRightCeilingCorner5
+  - Tileset_Rock_WallRightCeilingCorner2
+  - Tileset_Rock_WallRightCeilingCorner3
+  - Tileset_Rock_WallRightCeilingCorner0
+  - Tileset_Rock_WallRightCeilingCorner1
+  - Tileset_Rock_CeilingCornerOuterRight
+  - Tileset_Rock_SingleBlock
+  - Tileset_Rock_SingleColumnCentreCorners
+  - Tileset_Rock_CeilingCornerGrassRight
+  m_Tag: myAtlas
+  m_IsVariant: 0

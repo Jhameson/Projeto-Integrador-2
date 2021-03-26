@@ -52,7 +52,9 @@ public class GameManager : MonoBehaviourPunCallbacks
     public GameObject pausePanel;
     public GameObject FimDeJogo;
     
-    
+    [Header("Spawn")]
+    public GameObject[] spawnPoint;
+    private int randPosition;
 
 
     private void Awake()
@@ -126,8 +128,9 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     public void RespawnLocation()
     {
-        float respRange = Random.Range(-25f, 25f);
-        LocalPlayer.transform.localPosition = new Vector2(respRange, 4f);
+        
+       randPosition = Random.Range(0,spawnPoint.Length);
+        LocalPlayer.transform.localPosition = new Vector2(spawnPoint[randPosition].transform.position.x, spawnPoint[randPosition].transform.position.y);
 
     }
 
@@ -150,9 +153,9 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     public void SpawnPlayer()
     {
+        randPosition = Random.Range(0,spawnPoint.Length);
 
-        float respRange = Random.Range(-25f, 25f);
-        PhotonNetwork.Instantiate(PlayerPrefab[id].name, new Vector2(respRange, 4f), Quaternion.identity, 0);
+        PhotonNetwork.Instantiate(PlayerPrefab[id].name, new Vector2(spawnPoint[randPosition].transform.position.x, spawnPoint[randPosition].transform.position.y), Quaternion.identity, 0);
         GameCanvas.SetActive(false);
         SceneCamera.SetActive(false);
     }

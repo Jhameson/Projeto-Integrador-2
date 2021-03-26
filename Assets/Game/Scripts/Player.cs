@@ -60,7 +60,7 @@ public class Player : MonoBehaviourPunCallbacks
         else
         {
             PlayerNameText.text = pV.Owner.NickName ;
-            PlayerNameText.color = Color.black;
+            PlayerNameText.color = Color.red;
         }
         
     }
