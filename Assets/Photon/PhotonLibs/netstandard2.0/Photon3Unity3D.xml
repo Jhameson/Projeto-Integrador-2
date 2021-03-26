@@ -763,7 +763,7 @@
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapper`1.Box">
             <summary>
-            Boxes the value and returns boxed object. Releaeses the wrapper.
+            Boxes the value and returns boxed object. Releases the wrapper.
             </summary>
             <returns></returns>
         </member>
@@ -772,6 +772,14 @@
             Removes this WrapperStruct from pooling.
             </summary>
         </member>
+        <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapper`1.ToString">
+            <summary>Returns a String which represents the value of this instance.</summary>
+            <returns>String which represents the value of this instance.</returns>
+        </member>
+        <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapper`1.ToString(System.Boolean)">
+            <summary>Returns a String which represents the type (in brackets and value of this instance.</summary>
+            <returns>String which represents the type (in brackets) and value of this instance.</returns>
+        </member>
         <member name="F:ExitGames.Client.Photon.StructWrapping.StructWrapper`1.staticPool">
             <summary>
             staticPool is used for implicit casting. This is not threadsafe, so casting between T and StructWrapper should only be done on the Unity main thread.
@@ -779,7 +787,7 @@
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapperUtility.GetWrappedType(System.Object)">
             <summary>
-            Replacement for object.GetType() that first checks to see if object is a WrappedStruct. 
+            Replacement for object.GetType() that first checks to see if object is a WrappedStruct.
             If so returns the StructWrapper T type, otherwise just returns object.GetType().
             </summary>
             <param name="obj"></param>
@@ -814,53 +822,53 @@
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapperUtility.Unwrap``1(System.Object)">
             <summary>
-            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T. 
+            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T.
             Wrapper is returned to the wrapper pool if applicable, so it is not considered safe to Unwrap multiple times, as the wrapper may be recycled.
             </summary>
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapperUtility.Get``1(System.Object)">
             <summary>
-            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T. 
+            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T.
             Wrapper is will not be returned to its pool until it is Unwrapped, or the pool is cleared.
             </summary>
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapperUtility.Unwrap``1(ExitGames.Client.Photon.Hashtable,System.Object)">
             <summary>
-            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T. 
+            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T.
             Wrapper is returned to the wrapper pool if applicable, so it is not considered safe to Unwrap multiple times, as the wrapper may be recycled.
             </summary>
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapperUtility.TryUnwrapValue``1(ExitGames.Client.Photon.Hashtable,System.Byte,``0@)">
             <summary>
-            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T. 
+            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T.
             Wrapper is returned to the wrapper pool if applicable, so it is not considered safe to Unwrap multiple times, as the wrapper may be recycled.
             </summary>
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapperUtility.TryGetValue``1(ExitGames.Client.Photon.Hashtable,System.Byte,``0@)">
             <summary>
-            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T. 
+            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T.
             </summary>
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapperUtility.TryGetValue``1(ExitGames.Client.Photon.Hashtable,System.Object,``0@)">
             <summary>
-            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T. 
+            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T.
             </summary>
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapperUtility.TryUnwrapValue``1(ExitGames.Client.Photon.Hashtable,System.Object,``0@)">
             <summary>
-            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T. 
+            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T.
             Wrapper is returned to the wrapper pool if applicable, so it is not considered safe to Unwrap multiple times, as the wrapper may be recycled.
             </summary>
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapperUtility.Unwrap``1(ExitGames.Client.Photon.Hashtable,System.Byte)">
             <summary>
-            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T. 
+            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T.
             Wrapper is returned to the wrapper pool if applicable, so it is not considered safe to Unwrap multiple times, as the wrapper may be recycled.
             </summary>
         </member>
         <member name="M:ExitGames.Client.Photon.StructWrapping.StructWrapperUtility.Get``1(ExitGames.Client.Photon.Hashtable,System.Byte)">
             <summary>
-            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T. 
+            If object is a StructWrapper, the value will be extracted. If not, the object will be cast to T.
             Wrapper is will not be returned to its pool until it is Unwrapped, or the pool is cleared.
             </summary>
         </member>
@@ -869,6 +877,13 @@
             Will get the object using the key. If the key is invalid, will return null.
             </summary>
             <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExitGames.Client.Photon.ParameterDictionary.ToStringFull(System.Boolean)">
+            <summary>
+            Returns 
+            </summary>
+            <param name="includeTypes"></param>
             <returns></returns>
         </member>
         <member name="F:ExitGames.Client.Photon.PhotonCodes.ClientKey">
@@ -1521,7 +1536,7 @@
             
              DisconnectTimeout and SentCountAllowance are competing settings: either might trigger a disconnect on the
              client first, depending on the values and Roundtrip Time.
-             
+            
              Default: 10000 ms. Maximum setting: 65535.
              Setting a negative value will apply the default timeout.
              </remarks>

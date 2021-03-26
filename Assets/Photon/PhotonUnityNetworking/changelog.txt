@@ -3,6 +3,10 @@ PUN 2 Change Log
 Exit Games GmbH - www.photonengine.com - forum.photonengine.com
 
 
+v2.27 (12. January 2021)
+Removed: "Simple" networking. Due to the progress on an upcoming networkin solution (Fusion), we will keep this set of components an external addon in maintenance mode (supported but not improved/extended).
+Updated: The Realtime API and Photon3Unity3d.dll to v4.1.4.9.
+
 v2.26.1 (15. December 2020)
 Note: This fix release does not have a new PhotonNetwork.PunVersion. The changes were just for the Editor.
 Fixed: Some edge cases for the included "Simple" addon. 

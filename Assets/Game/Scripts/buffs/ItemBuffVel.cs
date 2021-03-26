@@ -7,6 +7,9 @@ using UnityEngine.SceneManagement;
 using Photon.Pun;
 using Photon.Realtime;
 
+using Photon.Pun.UtilityScripts;
+
+
 
 
 public class ItemBuffVel : MonoBehaviourPunCallbacks
@@ -16,7 +19,7 @@ public class ItemBuffVel : MonoBehaviourPunCallbacks
     [PunRPC]
     public void DestroyObject()
      {
-        
+       PhotonNetwork.LocalPlayer.AddScore(1);
        Destroy(gameObject);
     }
 

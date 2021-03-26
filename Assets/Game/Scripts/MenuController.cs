@@ -25,6 +25,7 @@ public class MenuController : MonoBehaviourPunCallbacks
     private void Awake()
     {
         PhotonNetwork.ConnectUsingSettings();
+        PhotonNetwork.ConnectToRegion("sa");
     }
 
     private void Start()
@@ -32,13 +33,7 @@ public class MenuController : MonoBehaviourPunCallbacks
         UserNameMenu.SetActive(true);
     }
 
-    public  override void OnConnectedToMaster()
-    {
-        PhotonNetwork.JoinLobby(TypedLobby.Default);
-        Debug.Log("Conectado");
-    }
-
-    public void ChangeUsernameInput()
+     public void ChangeUsernameInput()
     {
         if (UsernameInput.text.Length >= 4)
         {
@@ -50,20 +45,28 @@ public class MenuController : MonoBehaviourPunCallbacks
         }
     }
 
-    public void Duvidas(){
-        InstrucoesPanel.SetActive(true);
-    }
-
     public void SetUserName()
     {
         UserNameMenu.SetActive(false);
         PhotonNetwork.NickName = UsernameInput.text;
     }
+
+    public void Duvidas(){
+        InstrucoesPanel.SetActive(true);
+    }
+
+    public  override void OnConnectedToMaster()
+    {
+        PhotonNetwork.JoinLobby(TypedLobby.Default);
+        Debug.Log("Conectado");
+    }
+
+    
     public void CreateGame()
     {
 
         PhotonNetwork.CreateRoom(CreateGameInput.text, new RoomOptions { MaxPlayers = 10 }, null);
-        
+        Debug.Log("Sala criada");
     }
 
     public void JoinGame()
@@ -71,6 +74,7 @@ public class MenuController : MonoBehaviourPunCallbacks
         RoomOptions roomOptions = new RoomOptions();
         roomOptions.MaxPlayers = 5;
         //PhotonNetwork.JoinOrCreateRoom(JoinGameInput.text, roomOptions, TypedLobby.Default);
+         
          PhotonNetwork.JoinRoom(JoinGameInput.text);
     }
 

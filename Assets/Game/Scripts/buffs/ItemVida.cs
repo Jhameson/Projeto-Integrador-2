@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 using Photon.Pun;
 using Photon.Realtime;
-
+using Photon.Pun.UtilityScripts;
 
 
 public class ItemVida : MonoBehaviourPunCallbacks
@@ -17,7 +17,7 @@ public class ItemVida : MonoBehaviourPunCallbacks
     [PunRPC]
     public void DestroyObject()
      {
-        
+        PhotonNetwork.LocalPlayer.AddScore(1);
         Destroy(gameObject);
     }
     

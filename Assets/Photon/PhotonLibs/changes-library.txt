@@ -4,6 +4,15 @@ Exit Games GmbH - www.photonengine.com - forum.photonengine.com
 
 
 
+Version 4.1.4.9 (11. January 2021 - rev5966)
+    Fixed: EnetPeer to reset values for unsequenced commands on connect. Before, clients would send illegal command numbers after switching connections.
+    Added: Special handling for StructWrapper in DictionaryToString(). Pretty-prints type and value.
+    Added: StructWrapper<T>.ToString() and and ParameterDictionary.ToStringFull() to simplify logging.
+    Fixed: Add overload in ParameterDictionary was sending ints to byte, rather than object.
+    Changed: NonAllocDictionary<K, V> now implements IDictionary<K,V>.
+    Changed: ValueIterator and KeyIterator now implement IEnumerator<V>, System.Collections.IEnumerator.
+    Changed: PairIterator now implement IEnumerator<KeyValuePair<K, V>>.
+
 Version 4.1.4.8 (03. December 2020 - rev5915)
     Fixed: Issue with DisconnectTimeout, which could be set to int.MaxValue and force a timeout.
     Note: The maximum value that is applied as DisconnectTimeout is now 65535 (ushort.MaxValue). Negative values set to default timeout.

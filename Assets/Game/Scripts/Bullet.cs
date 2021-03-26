@@ -77,12 +77,12 @@ public class Bullet : MonoBehaviourPunCallbacks
 
         PhotonView target = collision.gameObject.GetComponent<PhotonView>();
 
-        if(target != null && (!target.IsMine || target.IsSceneView))
+        if(target != null && (!target.IsMine || target.IsRoomView))
         {
             if(target.tag == "Player" && imuneColisão==false)
             {
                 target.RPC("ReduceHealth",RpcTarget.AllBuffered,BulletDamage);
-               PhotonNetwork.LocalPlayer.AddScore(1);
+               PhotonNetwork.LocalPlayer.AddScore(2);
             }
             if (target.tag == "Chao" || target.tag == "Player" || target.tag == "Escudo")
             {

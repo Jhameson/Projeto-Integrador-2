@@ -110,7 +110,7 @@ public class Player : MonoBehaviourPunCallbacks
 
     [PunRPC] 
     public void Buffjump(float valor){
-        RunEscudo = true;
+        RunJump = true;
         JumpForce +=valor;
     }
     

@@ -2,7 +2,7 @@
 Photon Realtime C# Client - Changelog
 Exit Games GmbH - www.photonengine.com - forum.photonengine.com
 
-Version 4.1.5.0 ()
+Version 4.1.4.9 (12. January 2021)
     Internal: EncryptionMode.DatagramEncryptionGCMRandomSequence (12) with .DatagramEncryptionGCM (13).
     Internal: TokenForInit is now an object instead of a string. This also affects the AuthenticationValues class. This enables the server to send a byte[], which is more effective than a string.
     Changed: Exposed all RoomOptions in Room class. Room.PublishUserId, Room.DeleteNullProperties.
@@ -10,7 +10,8 @@ Version 4.1.5.0 ()
     Internal: EnterRoomParams and OpJoinRoom now use a JoinMode (replacing EnterRoomParams.CreateIfNotExists and EnterRoomParams.RejoinOnly).
     Fixed: Unity-specific CustomTypes.cs to actually only compile for Unity.
     Updated: EncryptionMode.DatagramEncryptionGCMRandomSequence (12) with .DatagramEncryptionGCM in the LoadBalancingClient.
-
+    Added: Room.SetExpectedUsers() to let the server know who's also coming (or no longer coming).
+    Added: PhotonNetwork.RemoveBufferedRPCs() for more fine-grained control when removing RPCs.
 
 Version 4.1.4.8 (30. November 2020)
     Added: Conditional compilation in methods which are only for UNITY_WEBGL and UNITY_XBOXONE. The code needed to compile for any platform, even though it should not run anywhere else.

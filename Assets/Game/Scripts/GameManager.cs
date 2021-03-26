@@ -52,11 +52,21 @@ public class GameManager : MonoBehaviourPunCallbacks
     public GameObject pausePanel;
     public GameObject FimDeJogo;
     
-    [Header("Spawn")]
+    [Header("Spawn de jogadores")]
     public GameObject[] spawnPoint;
     private int randPosition;
 
+    [Header("Spawn de jogadores")]
+    public GameObject[] si_itens;
+    public GameObject[] si_spawnPoint;
 
+    private int si_rand;
+    private int si_randPosition;
+
+    public float si_startTimeSpawner;
+    private float si_timeSpwans;
+
+    private int resultado;
     private void Awake()
     {
         Instance = this;
@@ -66,6 +76,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     private void Start(){
        scoreBoard = GameObject.Find("GameCanvas").transform.Find("FimDeJogo").gameObject;
        //novo
+       si_timeSpwans = si_startTimeSpawner;
         if (PhotonNetwork.IsMasterClient)
         {
             CustomeValue = new ExitGames.Client.Photon.Hashtable();
@@ -87,15 +98,29 @@ public class GameManager : MonoBehaviourPunCallbacks
     
         if(RunSpawnTimer)
         {
-            StartRespawn();
-            
+            StartRespawn(); 
         }
+
         if (!startTimer) return;
             timerDecrementeValue = PhotonNetwork.Time - startTime;
             countTi.text = (-(timerDecrementeValue) + timer).ToString("0");
         if (timerDecrementeValue >= timer)
         {
             FimdoGame();
+        }
+        if (timerDecrementeValue >= 90)
+        {
+            countTi.color = Color.red;
+            
+            
+        }
+        
+
+        if(si_timeSpwans <=0){
+
+            SpawnItens();
+        }else{
+            si_timeSpwans -= Time.deltaTime;
         }
     }
 
@@ -167,12 +192,16 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     public void BackToMenu()
     {
+        resultado = PhotonNetwork.LocalPlayer.GetScore();
+        PhotonNetwork.LocalPlayer.AddScore(-resultado);
         PhotonNetwork.LeaveRoom();
         PhotonNetwork.LoadLevel("TelaMenu");
     }
 
     public void QuitGame()
     {
+        resultado = PhotonNetwork.LocalPlayer.GetScore();
+        PhotonNetwork.LocalPlayer.AddScore(-resultado);
         PhotonNetwork.LeaveRoom();
         Application.Quit();
        
@@ -195,10 +224,22 @@ public class GameManager : MonoBehaviourPunCallbacks
         
     }   
     public void FimdoGame(){
+        
         ScoreBoard();
         FimDeJogo.SetActive(true);
     }
 
-    
+    /////////////Respwan de itens
+
+    [PunRPC]
+    private void SpawnItens(){
+        si_rand = Random.Range(0,si_itens.Length);
+        si_randPosition = Random.Range(0,si_spawnPoint.Length);
+
+
+        PhotonNetwork.Instantiate(si_itens[si_rand].name, new Vector2(si_spawnPoint[si_randPosition].transform.position.x, si_spawnPoint[si_randPosition].transform.position.y), Quaternion.identity, 0);
+        //PhotonNetwork.Instantiate(PlayerPrefab[id].name, new Vector2(respRange, 4f), Quaternion.identity, 0);
+        si_timeSpwans = si_startTimeSpawner;
+    }
    
 }

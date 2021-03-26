@@ -1107,6 +1107,45 @@ namespace Photon.Pun
             }
         }
 
+        /// <summary>
+        /// Clear buffered RPCs based on filter parameters.
+        /// </summary>
+        /// <param name="viewId">The viewID of the PhotonView where the RPC has been called on. We actually need its ViewID. If 0 (default) is provided, all PhotonViews/ViewIDs are considered.</param>
+        /// <param name="methodName">The RPC method name, if possible we will use its hash shortcut for efficiency. If none (null or empty string) is provided all RPC method names are considered.</param>
+        /// <param name="callersActorNumbers">The actor numbers of the players who called/buffered the RPC. For example if two players buffered the same RPC you can clear the buffered RPC of one and keep the other. If none (null or empty array) is provided all senders are considered.</param>
+        /// <returns>If the operation could be sent to the server.</returns>
+        public static bool RemoveBufferedRPCs(int viewId = 0, string methodName = null, int[] callersActorNumbers = null/*, params object[] parameters*/)
+        {
+            Hashtable filter = new Hashtable(2);
+            if (viewId != 0)
+            {
+                filter[keyByteZero] = viewId;
+            }
+            if (!string.IsNullOrEmpty(methodName))
+            {
+                // send name or shortcut (if available)
+                int shortcut;
+                if (rpcShortcuts.TryGetValue(methodName, out shortcut))
+                {
+                    filter[keyByteFive] = (byte)shortcut; // LIMITS RPC COUNT
+                }
+                else
+                {
+                    filter[keyByteThree] = methodName;
+                }
+            }
+            //if (parameters != null && parameters.Length > 0)
+            //{
+            //    filter[keyByteFour] = parameters;
+            //}
+            RaiseEventOptions raiseEventOptions = new RaiseEventOptions();
+            raiseEventOptions.CachingOption = EventCaching.RemoveFromRoomCache;
+            if (callersActorNumbers != null)
+            {
+                raiseEventOptions.TargetActors = callersActorNumbers;
+            }
+            return RaiseEventInternal(PunEvent.RPC, filter, raiseEventOptions, SendOptions.SendReliable);
+        }
 
         /// <summary>
         /// Sets level prefix for PhotonViews instantiated later on. Don't set it if you need only one!
