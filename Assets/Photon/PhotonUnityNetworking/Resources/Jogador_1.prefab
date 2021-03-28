@@ -317,10 +317,10 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 70
+  m_Mass: 40
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 2
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -398,7 +398,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MoveSpeed: 7
-  JumpForce: 650
+  JumpForce: 560
   PlayerNameText: {fileID: 1268127134730261715}
   pV: {fileID: 6385135800531606361}
   rb: {fileID: 1300483909857093707}
@@ -414,9 +414,9 @@ MonoBehaviour:
   DisableInput: 0
   isGrounded: 0
   escudo: {fileID: 6792169505565669841}
-  tempoEscudo: 10
-  tempoVelocidade: 5
-  tempoJump: 5
+  tempoEscudo: 4
+  tempoVelocidade: 4
+  tempoJump: 4
 --- !u!114 &559238350701387716
 MonoBehaviour:
   m_ObjectHideFlags: 0

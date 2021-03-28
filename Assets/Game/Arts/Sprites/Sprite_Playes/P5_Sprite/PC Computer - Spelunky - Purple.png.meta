@@ -1,0 +1,3212 @@
+fileFormatVersion: 2
+guid: 21e832185f1c90d479cb9b54c91ca9de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -663737383189722641
+    second: PC Computer - Spelunky - Purple_0
+  - first:
+      213: -6539280386909981746
+    second: PC Computer - Spelunky - Purple_1
+  - first:
+      213: -1240087239337270503
+    second: PC Computer - Spelunky - Purple_2
+  - first:
+      213: -5486708964956627839
+    second: PC Computer - Spelunky - Purple_3
+  - first:
+      213: 8841931223032844395
+    second: PC Computer - Spelunky - Purple_4
+  - first:
+      213: 1329236086451731469
+    second: PC Computer - Spelunky - Purple_5
+  - first:
+      213: -6422090573755558478
+    second: PC Computer - Spelunky - Purple_6
+  - first:
+      213: -2121014491528692692
+    second: PC Computer - Spelunky - Purple_7
+  - first:
+      213: 3831651544590067509
+    second: PC Computer - Spelunky - Purple_8
+  - first:
+      213: -7817301369826991313
+    second: PC Computer - Spelunky - Purple_9
+  - first:
+      213: -1916684828457554049
+    second: PC Computer - Spelunky - Purple_10
+  - first:
+      213: -7737680281507501198
+    second: PC Computer - Spelunky - Purple_11
+  - first:
+      213: -4421322141961787078
+    second: PC Computer - Spelunky - Purple_12
+  - first:
+      213: 4212261402554313351
+    second: PC Computer - Spelunky - Purple_13
+  - first:
+      213: 1385561341032410950
+    second: PC Computer - Spelunky - Purple_14
+  - first:
+      213: 581855326426365162
+    second: PC Computer - Spelunky - Purple_15
+  - first:
+      213: -6334259300476356331
+    second: PC Computer - Spelunky - Purple_16
+  - first:
+      213: -2403357486691962674
+    second: PC Computer - Spelunky - Purple_17
+  - first:
+      213: -8444296866795715826
+    second: PC Computer - Spelunky - Purple_18
+  - first:
+      213: 998696602349978200
+    second: PC Computer - Spelunky - Purple_19
+  - first:
+      213: 4733218164362294264
+    second: PC Computer - Spelunky - Purple_20
+  - first:
+      213: 5480576912866043474
+    second: PC Computer - Spelunky - Purple_21
+  - first:
+      213: -8503443820629464921
+    second: PC Computer - Spelunky - Purple_22
+  - first:
+      213: -129935568050330908
+    second: PC Computer - Spelunky - Purple_23
+  - first:
+      213: -1930340057816821268
+    second: PC Computer - Spelunky - Purple_24
+  - first:
+      213: -260237025885813604
+    second: PC Computer - Spelunky - Purple_25
+  - first:
+      213: 5192543522943179380
+    second: PC Computer - Spelunky - Purple_26
+  - first:
+      213: 557249567128567654
+    second: PC Computer - Spelunky - Purple_27
+  - first:
+      213: 6598445964591330491
+    second: PC Computer - Spelunky - Purple_28
+  - first:
+      213: -4872885246811594962
+    second: PC Computer - Spelunky - Purple_29
+  - first:
+      213: 4843800550153633899
+    second: PC Computer - Spelunky - Purple_30
+  - first:
+      213: -7921212329543199197
+    second: PC Computer - Spelunky - Purple_31
+  - first:
+      213: -4636267644977186550
+    second: PC Computer - Spelunky - Purple_32
+  - first:
+      213: 8410720956830576833
+    second: PC Computer - Spelunky - Purple_33
+  - first:
+      213: -339284141997795172
+    second: PC Computer - Spelunky - Purple_34
+  - first:
+      213: 4233181458426683136
+    second: PC Computer - Spelunky - Purple_35
+  - first:
+      213: -7215022592601418019
+    second: PC Computer - Spelunky - Purple_36
+  - first:
+      213: -3999612997896456986
+    second: PC Computer - Spelunky - Purple_37
+  - first:
+      213: -8026456702541323089
+    second: PC Computer - Spelunky - Purple_38
+  - first:
+      213: -8329667846162232495
+    second: PC Computer - Spelunky - Purple_39
+  - first:
+      213: -6701695674178465574
+    second: PC Computer - Spelunky - Purple_40
+  - first:
+      213: -8083383893889679282
+    second: PC Computer - Spelunky - Purple_41
+  - first:
+      213: 3262278010276327741
+    second: PC Computer - Spelunky - Purple_42
+  - first:
+      213: 6733271414050930807
+    second: PC Computer - Spelunky - Purple_43
+  - first:
+      213: -5007940473830879694
+    second: PC Computer - Spelunky - Purple_44
+  - first:
+      213: 6521307075361526442
+    second: PC Computer - Spelunky - Purple_45
+  - first:
+      213: 1741157850044673902
+    second: PC Computer - Spelunky - Purple_46
+  - first:
+      213: -1947045313450165587
+    second: PC Computer - Spelunky - Purple_47
+  - first:
+      213: 3942730359599217127
+    second: PC Computer - Spelunky - Purple_48
+  - first:
+      213: 4798946720156954715
+    second: PC Computer - Spelunky - Purple_49
+  - first:
+      213: -8193324753407012264
+    second: PC Computer - Spelunky - Purple_50
+  - first:
+      213: 7306698550401177899
+    second: PC Computer - Spelunky - Purple_51
+  - first:
+      213: 2739289591621023487
+    second: PC Computer - Spelunky - Purple_52
+  - first:
+      213: -6879697772833635081
+    second: PC Computer - Spelunky - Purple_53
+  - first:
+      213: 2558541317992749559
+    second: PC Computer - Spelunky - Purple_54
+  - first:
+      213: 4435376017674283838
+    second: PC Computer - Spelunky - Purple_55
+  - first:
+      213: 2218304209019301041
+    second: PC Computer - Spelunky - Purple_56
+  - first:
+      213: 8734561268277521218
+    second: PC Computer - Spelunky - Purple_57
+  - first:
+      213: 2375366544979632270
+    second: PC Computer - Spelunky - Purple_58
+  - first:
+      213: 4204026678518336163
+    second: PC Computer - Spelunky - Purple_59
+  - first:
+      213: 3299178159214755008
+    second: PC Computer - Spelunky - Purple_60
+  - first:
+      213: -716449036687407378
+    second: PC Computer - Spelunky - Purple_61
+  - first:
+      213: -3211659965005896481
+    second: PC Computer - Spelunky - Purple_62
+  - first:
+      213: 6502161482540715327
+    second: PC Computer - Spelunky - Purple_63
+  - first:
+      213: 3850348361094902736
+    second: PC Computer - Spelunky - Purple_64
+  - first:
+      213: -1432696220761552837
+    second: PC Computer - Spelunky - Purple_65
+  - first:
+      213: -3544907571454176106
+    second: PC Computer - Spelunky - Purple_66
+  - first:
+      213: -5715961262251100792
+    second: PC Computer - Spelunky - Purple_67
+  - first:
+      213: 3280781241287948686
+    second: PC Computer - Spelunky - Purple_68
+  - first:
+      213: 9215656052383576594
+    second: PC Computer - Spelunky - Purple_69
+  - first:
+      213: 5808124306857996043
+    second: PC Computer - Spelunky - Purple_70
+  - first:
+      213: 7320983344827480119
+    second: PC Computer - Spelunky - Purple_71
+  - first:
+      213: -6577596510816491510
+    second: PC Computer - Spelunky - Purple_72
+  - first:
+      213: -4672501434338610292
+    second: PC Computer - Spelunky - Purple_73
+  - first:
+      213: 734623420128085316
+    second: PC Computer - Spelunky - Purple_74
+  - first:
+      213: 2124129927763600174
+    second: PC Computer - Spelunky - Purple_75
+  - first:
+      213: -7764948590401842324
+    second: PC Computer - Spelunky - Purple_76
+  - first:
+      213: 7898861532934117568
+    second: PC Computer - Spelunky - Purple_77
+  - first:
+      213: -7008630951629026181
+    second: PC Computer - Spelunky - Purple_78
+  - first:
+      213: 3451108954348624673
+    second: PC Computer - Spelunky - Purple_79
+  - first:
+      213: 8621345228236645999
+    second: PC Computer - Spelunky - Purple_80
+  - first:
+      213: -3687287704023481474
+    second: PC Computer - Spelunky - Purple_81
+  - first:
+      213: 843303090461022807
+    second: PC Computer - Spelunky - Purple_82
+  - first:
+      213: -4887637455783351062
+    second: PC Computer - Spelunky - Purple_83
+  - first:
+      213: 2065586977713568541
+    second: PC Computer - Spelunky - Purple_84
+  - first:
+      213: -3927119774805075360
+    second: PC Computer - Spelunky - Purple_85
+  - first:
+      213: -998187044815437615
+    second: PC Computer - Spelunky - Purple_86
+  - first:
+      213: 2968941150481970140
+    second: PC Computer - Spelunky - Purple_87
+  - first:
+      213: 7649374239153101443
+    second: PC Computer - Spelunky - Purple_88
+  - first:
+      213: -3637042503986687572
+    second: PC Computer - Spelunky - Purple_89
+  - first:
+      213: 8708123541130397593
+    second: PC Computer - Spelunky - Purple_90
+  - first:
+      213: 4607037445763284768
+    second: PC Computer - Spelunky - Purple_91
+  - first:
+      213: 2042765203334525596
+    second: PC Computer - Spelunky - Purple_92
+  - first:
+      213: -4636066748972675085
+    second: PC Computer - Spelunky - Purple_93
+  - first:
+      213: -6484459777641192720
+    second: PC Computer - Spelunky - Purple_94
+  - first:
+      213: 1993131426525044213
+    second: PC Computer - Spelunky - Purple_95
+  - first:
+      213: 2839878902136447766
+    second: PC Computer - Spelunky - Purple_96
+  - first:
+      213: 5405416803028105067
+    second: PC Computer - Spelunky - Purple_97
+  - first:
+      213: 485540150697176309
+    second: PC Computer - Spelunky - Purple_98
+  - first:
+      213: -503143007285406073
+    second: PC Computer - Spelunky - Purple_99
+  - first:
+      213: -9056807296245609363
+    second: PC Computer - Spelunky - Purple_100
+  - first:
+      213: -8021719648095233251
+    second: PC Computer - Spelunky - Purple_101
+  - first:
+      213: -9108333543718193386
+    second: PC Computer - Spelunky - Purple_102
+  - first:
+      213: -6275848166260791314
+    second: PC Computer - Spelunky - Purple_103
+  - first:
+      213: 2039535965423159681
+    second: PC Computer - Spelunky - Purple_104
+  - first:
+      213: 3119283733946863952
+    second: PC Computer - Spelunky - Purple_105
+  - first:
+      213: -3336435976405061645
+    second: PC Computer - Spelunky - Purple_106
+  - first:
+      213: 536991063124316538
+    second: PC Computer - Spelunky - Purple_107
+  - first:
+      213: -2162017545412950265
+    second: PC Computer - Spelunky - Purple_108
+  - first:
+      213: -5595601018448593116
+    second: PC Computer - Spelunky - Purple_109
+  - first:
+      213: 8553816159332169416
+    second: PC Computer - Spelunky - Purple_110
+  - first:
+      213: 5461471956357785193
+    second: PC Computer - Spelunky - Purple_111
+  - first:
+      213: -6158137321169223952
+    second: PC Computer - Spelunky - Purple_112
+  - first:
+      213: -832022711045882843
+    second: PC Computer - Spelunky - Purple_113
+  - first:
+      213: 4916636606027014792
+    second: PC Computer - Spelunky - Purple_114
+  - first:
+      213: 8970857880545838642
+    second: PC Computer - Spelunky - Purple_115
+  - first:
+      213: -1900745830346267654
+    second: PC Computer - Spelunky - Purple_116
+  - first:
+      213: 7072697474573446585
+    second: PC Computer - Spelunky - Purple_117
+  - first:
+      213: 2552642820590930722
+    second: PC Computer - Spelunky - Purple_118
+  - first:
+      213: 6516861407805688020
+    second: PC Computer - Spelunky - Purple_119
+  - first:
+      213: 5177299693460638640
+    second: PC Computer - Spelunky - Purple_120
+  - first:
+      213: -3164440040155640120
+    second: PC Computer - Spelunky - Purple_121
+  - first:
+      213: 2501261545538891608
+    second: PC Computer - Spelunky - Purple_122
+  - first:
+      213: -4794509077309972158
+    second: PC Computer - Spelunky - Purple_123
+  - first:
+      213: -4628069608185284557
+    second: PC Computer - Spelunky - Purple_124
+  - first:
+      213: 3154377189079339101
+    second: PC Computer - Spelunky - Purple_125
+  - first:
+      213: -6404205532449246433
+    second: PC Computer - Spelunky - Purple_126
+  - first:
+      213: 6797959128945244924
+    second: PC Computer - Spelunky - Purple_127
+  - first:
+      213: 6551840625119618498
+    second: PC Computer - Spelunky - Purple_128
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 950
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe944dadd5ee9c6f0800000000000000
+      internalID: -663737383189722641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 950
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec33d8b722fcf35a0800000000000000
+      internalID: -6539280386909981746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 950
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913aec0e9335acee0800000000000000
+      internalID: -1240087239337270503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 950
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c1fc5244b4bd3b0800000000000000
+      internalID: -5486708964956627839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 950
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60de4dc999d4ba70800000000000000
+      internalID: 8841931223032844395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 950
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cf5939d25627210800000000000000
+      internalID: 1329236086451731469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 950
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b55aeb16a620e6a0800000000000000
+      internalID: -6422090573755558478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 950
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf9fcbe84a092e0800000000000000
+      internalID: -2121014491528692692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 950
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5372e5267c2cc2530800000000000000
+      internalID: 3831651544590067509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 950
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23a94d62dd538390800000000000000
+      internalID: -7817301369826991313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 870
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f2865bd419665e0800000000000000
+      internalID: -1916684828457554049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 869
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b633ba7cc3e9490800000000000000
+      internalID: -7737680281507501198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 870
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a396cc2efee44a2c0800000000000000
+      internalID: -4421322141961787078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 869
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa6589d65f47a30800000000000000
+      internalID: 4212261402554313351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 870
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f20cad2b08a3310800000000000000
+      internalID: 1385561341032410950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 870
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecff4a265a231800800000000000000
+      internalID: 581855326426365162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 870
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51974eff9b03818a0800000000000000
+      internalID: -6334259300476356331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 870
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec03371791f85aed0800000000000000
+      internalID: -2403357486691962674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 870
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0382bc4db4dfca80800000000000000
+      internalID: -8444296866795715826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 870
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c57db4451cdd00800000000000000
+      internalID: 998696602349978200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_20
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 870
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3bd33c7d4cfa140800000000000000
+      internalID: 4733218164362294264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 870
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25666973aabee0c40800000000000000
+      internalID: 5480576912866043474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 790
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e3e7f5e2bdf980800000000000000
+      internalID: -8503443820629464921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 790
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ebae0a40623ef0800000000000000
+      internalID: -129935568050330908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 798
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce11f1ed1fd0635e0800000000000000
+      internalID: -1930340057816821268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 796
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c940ca2cdc3736cf0800000000000000
+      internalID: -260237025885813604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 790
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a98c5a2de9f0840800000000000000
+      internalID: 5192543522943179380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 790
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f30f3678fbbb700800000000000000
+      internalID: 557249567128567654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 791
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4731d05a3629b50800000000000000
+      internalID: 6598445964591330491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 789
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f9d888fa8006cb0800000000000000
+      internalID: -4872885246811594962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_30
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 790
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60cfb2dfe2a83340800000000000000
+      internalID: 4843800550153633899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 787
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326122bca53321290800000000000000
+      internalID: -7921212329543199197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 790
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a097f71142ba8afb0800000000000000
+      internalID: -4636267644977186550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 711
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0f1d8f522e8b470800000000000000
+      internalID: 8410720956830576833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 711
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985c46dede9a4bf0800000000000000
+      internalID: -339284141997795172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 710
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fda4bab184fba30800000000000000
+      internalID: 4233181458426683136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 710
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd61399cd271fdb90800000000000000
+      internalID: -7215022592601418019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 710
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4b8555b258e78c0800000000000000
+      internalID: -3999612997896456986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 710
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a8ffa72c4c9090800000000000000
+      internalID: -8026456702541323089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_39
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 710
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bc184f933176c80800000000000000
+      internalID: -8329667846162232495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_40
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 710
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad012db9a4bcef2a0800000000000000
+      internalID: -6701695674178465574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_41
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 702
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4087951d2d02df80800000000000000
+      internalID: -8083383893889679282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_42
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 704
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31b619e090f54d20800000000000000
+      internalID: 3262278010276327741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_43
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 706
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7704cca3da2617d50800000000000000
+      internalID: 6733271414050930807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_44
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 711
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e42091ca8308ab0800000000000000
+      internalID: -5007940473830879694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 631
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa25a22db36508a50800000000000000
+      internalID: 6521307075361526442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 631
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fabcde6d5d92810800000000000000
+      internalID: 1741157850044673902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 629
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daab6327a94baf4e0800000000000000
+      internalID: -1947045313450165587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 629
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e93f016f5467b630800000000000000
+      internalID: 3942730359599217127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 629
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b503bf6bd98499240800000000000000
+      internalID: 4798946720156954715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_50
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 630
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85292cffb867b4e80800000000000000
+      internalID: -8193324753407012264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_51
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 630
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2916897e9b966560800000000000000
+      internalID: 7306698550401177899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_52
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 630
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6fe75ce59e30620800000000000000
+      internalID: 2739289591621023487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_53
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 630
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4843863576680a0800000000000000
+      internalID: -6879697772833635081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_54
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 630
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f91e12e5c3c18320800000000000000
+      internalID: 2558541317992749559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_55
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 630
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b23ca0dfe9d8d30800000000000000
+      internalID: 4435376017674283838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 550
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc695ecceff8ce10800000000000000
+      internalID: 2218304209019301041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 550
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b21902235673970800000000000000
+      internalID: 8734561268277521218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 551
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80abd4994ff6f020800000000000000
+      internalID: 2375366544979632270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 550
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac95f7df3b75a30800000000000000
+      internalID: 4204026678518336163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_60
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 550
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccf8b65e0909cd20800000000000000
+      internalID: 3299178159214755008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_61
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 551
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68394a569ae06f0800000000000000
+      internalID: -716449036687407378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_62
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 551
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4ea762744ed63d0800000000000000
+      internalID: -3211659965005896481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_63
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 550
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d011f1b615c3a50800000000000000
+      internalID: 6502161482540715327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_64
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 549
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b1943f6f2f6530800000000000000
+      internalID: 3850348361094902736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_65
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 550
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388672c06a0e1ce0800000000000000
+      internalID: -1432696220761552837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_66
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 550
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69491e17855fdcec0800000000000000
+      internalID: -3544907571454176106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_67
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 549
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88531a53483dca0b0800000000000000
+      internalID: -5715961262251100792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 470
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89bbb8182da78d20800000000000000
+      internalID: 3280781241287948686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 470
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212708e5a5694ef70800000000000000
+      internalID: 9215656052383576594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 470
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f2599c84a9a9050800000000000000
+      internalID: 5808124306857996043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_71
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 470
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383efa509b599560800000000000000
+      internalID: 7320983344827480119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_72
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 470
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a082fe0b2dea7b4a0800000000000000
+      internalID: -6577596510816491510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_73
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 470
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c837eb193b0f72fb0800000000000000
+      internalID: -4672501434338610292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 467
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445ca60cb18e13a00800000000000000
+      internalID: 734623420128085316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 468
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2320294aec6a7d10800000000000000
+      internalID: 2124129927763600174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_76
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 468
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c639de1c56c5d3490800000000000000
+      internalID: -7764948590401842324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_77
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 468
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c81988d6b46e9d60800000000000000
+      internalID: 7898861532934117568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_78
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 468
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c085668475cbe90800000000000000
+      internalID: -7008630951629026181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_79
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 468
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b9e192f4dc4ef20800000000000000
+      internalID: 3451108954348624673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 395
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ed07aecb25a770800000000000000
+      internalID: 8621345228236645999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 393
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73c3098e5f14dcc0800000000000000
+      internalID: -3687287704023481474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 390
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a1be851b304bb00800000000000000
+      internalID: 843303090461022807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 389
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeca32931af9b2cb0800000000000000
+      internalID: -4887637455783351062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_84
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 394
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b3a4b89607aac10800000000000000
+      internalID: 2065586977713568541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_85
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 395
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ad4502f511089c0800000000000000
+      internalID: -3927119774805075360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_86
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 393
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0016edb2ab522f0800000000000000
+      internalID: -998187044815437615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_87
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 390
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd374890f3cc33920800000000000000
+      internalID: 2968941150481970140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_88
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 389
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a9eb6a759082a60800000000000000
+      internalID: 7649374239153101443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_89
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 394
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca150eccc11a68dc0800000000000000
+      internalID: -3637042503986687572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_90
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 310
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9974b49193879d870800000000000000
+      internalID: 8708123541130397593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_91
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 310
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fb4a5d52c7fef30800000000000000
+      internalID: 4607037445763284768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 310
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c927840212c595c10800000000000000
+      internalID: 2042765203334525596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_93
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 310
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffcb70dad169afb0800000000000000
+      internalID: -4636066748972675085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_94
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 310
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2636930329206a0800000000000000
+      internalID: -6484459777641192720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_95
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 310
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd51bce87609ab10800000000000000
+      internalID: 1993131426525044213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_96
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 310
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61328fea0d6496720800000000000000
+      internalID: 2839878902136447766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_97
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 306
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67fa6771f5e30b40800000000000000
+      internalID: 5405416803028105067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcae7ec13cfcb600800000000000000
+      internalID: 485540150697176309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_99
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 226
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7861883c91a7409f0800000000000000
+      internalID: -503143007285406073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_100
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 227
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c4d14cfb1cf4280800000000000000
+      internalID: -9056807296245609363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_101
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 227
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b138f1b702da090800000000000000
+      internalID: -8021719648095233251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_102
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 227
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617f6e666e2b89180800000000000000
+      internalID: -9108333543718193386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_103
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 227
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee72db9f755b7e8a0800000000000000
+      internalID: -6275848166260791314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_104
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 224
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1894ea59723ed4c10800000000000000
+      internalID: 2039535965423159681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_105
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 225
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0519e83870ce94b20800000000000000
+      internalID: 3119283733946863952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_106
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 227
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffea8a182992b1d0800000000000000
+      internalID: -3336435976405061645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_107
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 224
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71951dd686c37700800000000000000
+      internalID: 536991063124316538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_108
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 224
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707cf7f4f78fef1e0800000000000000
+      internalID: -2162017545412950265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_109
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 225
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fbe8e358e6852b0800000000000000
+      internalID: -5595601018448593116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 148
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c67df21a7245b670800000000000000
+      internalID: 8553816159332169416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_111
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 146
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a675eecb0bcb40800000000000000
+      internalID: 5461471956357785193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_112
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 146
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef1adcbb6e98aa0800000000000000
+      internalID: -6158137321169223952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_113
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 147
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c7d07a0cf0474f0800000000000000
+      internalID: -832022711045882843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_114
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 146
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8822ce791f66b3440800000000000000
+      internalID: 4916636606027014792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 146
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236c27476b3ee7c70800000000000000
+      internalID: 8970857880545838642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_116
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 146
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e7e5ecb13f95e0800000000000000
+      internalID: -1900745830346267654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_117
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 143
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bda0cf51e4472260800000000000000
+      internalID: 7072697474573446585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_118
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 145
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b06cfee1fcc6320800000000000000
+      internalID: 2552642820590930722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_119
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 146
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c5be2cea807a50800000000000000
+      internalID: 6516861407805688020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_120
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 87
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbc57404a679d740800000000000000
+      internalID: 5177299693460638640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_121
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce0085ac86a514d0800000000000000
+      internalID: -3164440040155640120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fa0389f1446b220800000000000000
+      internalID: 2501261545538891608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_123
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 74
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ad86856b767db0800000000000000
+      internalID: -4794509077309972158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_124
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 71
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b550463bc5cfb0800000000000000
+      internalID: -4628069608185284557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_125
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 70
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d505ba2475996cb20800000000000000
+      internalID: 3154377189079339101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_126
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 79
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1375c9cff0bf17a0800000000000000
+      internalID: -6404205532449246433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_127
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 107
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab7668fc3375e50800000000000000
+      internalID: 6797959128945244924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Purple_128
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 68
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c56a3dd550dcea50800000000000000
+      internalID: 6551840625119618498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

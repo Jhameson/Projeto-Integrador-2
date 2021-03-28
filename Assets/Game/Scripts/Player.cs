@@ -124,7 +124,7 @@ public class Player : MonoBehaviourPunCallbacks
         if(tempoVelocidade<=0)
         {
                 Buffvel(-2f);
-                tempoVelocidade = 5f;
+                tempoVelocidade = 4f;
                 RunVelocidade = false;
                 
                                
@@ -139,7 +139,7 @@ public class Player : MonoBehaviourPunCallbacks
         if(tempoJump<=0)
         {
                 Buffjump(-40f);
-                tempoJump = 8f;
+                tempoJump = 4f;
                 RunJump = false;
                                     
         }
@@ -154,7 +154,7 @@ public class Player : MonoBehaviourPunCallbacks
         {
                 EnableShield(false);
                 RunEscudo = false;
-                tempoEscudo= 10f;
+                tempoEscudo= 4f;
                 Bullet.imuneColisão = false;
                 
         }

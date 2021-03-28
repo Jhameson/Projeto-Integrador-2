@@ -7,6 +7,9 @@ using Photon.Pun;
 using Photon.Realtime;
 using Photon.Pun.UtilityScripts;
 
+
+using Random = UnityEngine.Random;
+
 using System.Text;
 public class GameManager : MonoBehaviourPunCallbacks
 {
@@ -56,7 +59,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     public GameObject[] spawnPoint;
     private int randPosition;
 
-    [Header("Spawn de jogadores")]
+    [Header("Spawn de itens")]
     public GameObject[] si_itens;
     public GameObject[] si_spawnPoint;
 
@@ -67,6 +70,9 @@ public class GameManager : MonoBehaviourPunCallbacks
     private float si_timeSpwans;
 
     private int resultado;
+
+
+    
     private void Awake()
     {
         Instance = this;
@@ -103,6 +109,7 @@ public class GameManager : MonoBehaviourPunCallbacks
 
         if (!startTimer) return;
             timerDecrementeValue = PhotonNetwork.Time - startTime;
+            countTi.color = Color.blue;
             countTi.text = (-(timerDecrementeValue) + timer).ToString("0");
         if (timerDecrementeValue >= timer)
         {
@@ -130,7 +137,7 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     public void EnableRespawn()
     {
-        TimerAmount = 2f;
+        TimerAmount = 1f;
         RunSpawnTimer = true;
         RespawnMenu.SetActive(true);
     }
@@ -138,7 +145,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     private void StartRespawn()
     {
         TimerAmount = TimerAmount - Time.deltaTime;
-        RespawnTimerText.text = "Renascendo em " + TimerAmount.ToString("F0");
+        RespawnTimerText.text = "Renascendo...";
         Debug.Log(TimerAmount);
 
         if(TimerAmount<=0)
@@ -153,7 +160,7 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     public void RespawnLocation()
     {
-        
+         
        randPosition = Random.Range(0,spawnPoint.Length);
         LocalPlayer.transform.localPosition = new Vector2(spawnPoint[randPosition].transform.position.x, spawnPoint[randPosition].transform.position.y);
 
@@ -183,6 +190,7 @@ public class GameManager : MonoBehaviourPunCallbacks
         PhotonNetwork.Instantiate(PlayerPrefab[id].name, new Vector2(spawnPoint[randPosition].transform.position.x, spawnPoint[randPosition].transform.position.y), Quaternion.identity, 0);
         GameCanvas.SetActive(false);
         SceneCamera.SetActive(false);
+        
     }
 
     public void SetID(int Id)
@@ -196,6 +204,19 @@ public class GameManager : MonoBehaviourPunCallbacks
         PhotonNetwork.LocalPlayer.AddScore(-resultado);
         PhotonNetwork.LeaveRoom();
         PhotonNetwork.LoadLevel("TelaMenu");
+    }
+
+    public void Restart()
+    {
+        resultado = PhotonNetwork.LocalPlayer.GetScore();
+        PhotonNetwork.LocalPlayer.AddScore(-resultado);
+        FimDeJogo.SetActive(false);
+        
+        PhotonNetwork.Destroy(LocalPlayer);
+        GameCanvas.SetActive(true);
+        timer = 100;
+        Start();
+        
     }
 
     public void QuitGame()
@@ -215,11 +236,11 @@ public class GameManager : MonoBehaviourPunCallbacks
         var playerNames = new StringBuilder();
         foreach(Photon.Realtime.Player p in PhotonNetwork.PlayerList)
         {
-             playerNames.Append("Nick: "+p.NickName+" -- SCORE: "+p.GetScore()+"\n");
+             playerNames.Append("- Nick: "+p.NickName+"   ====> SCORE: "+p.GetScore()+"\n");
         }
 
-        string saida = "Quatidade de Jogadores na sala: "+playerCount.ToString() + "\n\n" +playerNames.ToString();
-        scoreBoard.transform.Find("Text").GetComponent<Text>().text = saida;
+        string saida = "-> Quatidade de Jogadores na sala: "+playerCount.ToString() + "\n\n " +playerNames.ToString();
+        scoreBoard.transform.Find("ListaScores").GetComponent<Text>().text = saida;
 
         
     }   

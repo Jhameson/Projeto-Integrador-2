@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 933140152878132301}
   - component: {fileID: 933140152878132142}
   m_Layer: 0
-  m_Name: arma_4
+  m_Name: arma_5
   m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: c433ec2f16f847f41846356e29f2c573, type: 3}
-  m_Color: {r: 1, g: 0.39937496, b: 0, a: 1}
+  m_Color: {r: 1, g: 0, b: 0.8135681, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -124,8 +124,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MoveDir: 0
   MoveSpeed: 11
-  DestroyTime: 1.2
-  BulletDamage: 10
+  DestroyTime: 2
+  BulletDamage: 7
 --- !u!114 &933140152878132142
 MonoBehaviour:
   m_ObjectHideFlags: 0
