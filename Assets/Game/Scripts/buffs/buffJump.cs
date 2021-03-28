@@ -7,6 +7,9 @@ using UnityEngine.SceneManagement;
 using Photon.Pun;
 using Photon.Realtime;
 
+
+using Photon.Pun.UtilityScripts;
+
 public class buffJump : MonoBehaviourPunCallbacks
 {
     public float valor;
@@ -14,7 +17,7 @@ public class buffJump : MonoBehaviourPunCallbacks
     [PunRPC]
     public void DestroyObject()
      {
-        
+        PhotonNetwork.LocalPlayer.AddScore(1);
         Destroy(gameObject);
     }
 

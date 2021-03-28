@@ -214,7 +214,7 @@ public class GameManager : MonoBehaviourPunCallbacks
         
         PhotonNetwork.Destroy(LocalPlayer);
         GameCanvas.SetActive(true);
-        timer = 100;
+        timer = 180;
         Start();
         
     }

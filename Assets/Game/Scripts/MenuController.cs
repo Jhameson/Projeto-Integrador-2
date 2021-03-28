@@ -20,6 +20,8 @@ public class MenuController : MonoBehaviourPunCallbacks
     [SerializeField] private GameObject BtnSair;
     
      [SerializeField] private GameObject InstrucoesPanel;
+     [SerializeField] private GameObject InstrucoesPanel2;
+     [SerializeField] private GameObject InstrucoesPanel3;
 
 
     private void Awake()
@@ -53,6 +55,28 @@ public class MenuController : MonoBehaviourPunCallbacks
 
     public void Duvidas(){
         InstrucoesPanel.SetActive(true);
+    }
+
+    public void proximo(){
+        InstrucoesPanel.SetActive(false);
+        InstrucoesPanel2.SetActive(true);
+    }
+    public void proximo2(){
+        InstrucoesPanel2.SetActive(false);
+        InstrucoesPanel3.SetActive(true);
+    }
+    public void anterior(){
+        InstrucoesPanel.SetActive(true);
+        InstrucoesPanel2.SetActive(false);
+    }
+    public void anterior2(){
+        InstrucoesPanel2.SetActive(true);
+        InstrucoesPanel3.SetActive(false);
+    }
+
+    public void sair(){
+        
+        InstrucoesPanel3.SetActive(false);
     }
 
     public  override void OnConnectedToMaster()

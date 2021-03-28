@@ -8,6 +8,7 @@ using Photon.Pun;
 using Photon.Realtime;
 
 
+using Photon.Pun.UtilityScripts;
 
 public class Escudo : MonoBehaviourPunCallbacks
 {
@@ -16,7 +17,7 @@ public class Escudo : MonoBehaviourPunCallbacks
     [PunRPC]
     public void DestroyObject()
      {
-        
+        PhotonNetwork.LocalPlayer.AddScore(-3);
         Destroy(gameObject);
     }
     

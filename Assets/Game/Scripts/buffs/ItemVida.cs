@@ -17,7 +17,7 @@ public class ItemVida : MonoBehaviourPunCallbacks
     [PunRPC]
     public void DestroyObject()
      {
-        PhotonNetwork.LocalPlayer.AddScore(1);
+        PhotonNetwork.LocalPlayer.AddScore(-1);
         Destroy(gameObject);
     }
     
