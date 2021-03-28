@@ -89,14 +89,14 @@ public class MenuController : MonoBehaviourPunCallbacks
     public void CreateGame()
     {
 
-        PhotonNetwork.CreateRoom(CreateGameInput.text, new RoomOptions { MaxPlayers = 10 }, null);
+        PhotonNetwork.CreateRoom(CreateGameInput.text, new RoomOptions { MaxPlayers = 20 }, null);
         Debug.Log("Sala criada");
     }
 
     public void JoinGame()
     {
         RoomOptions roomOptions = new RoomOptions();
-        roomOptions.MaxPlayers = 5;
+        roomOptions.MaxPlayers = 20;
         //PhotonNetwork.JoinOrCreateRoom(JoinGameInput.text, roomOptions, TypedLobby.Default);
          
          PhotonNetwork.JoinRoom(JoinGameInput.text);
