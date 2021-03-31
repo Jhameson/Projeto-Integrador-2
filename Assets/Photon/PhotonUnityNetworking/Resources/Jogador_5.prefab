@@ -201,7 +201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 687bba926b789c1469c16e5942251f39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HealthAmount: 100
+  HealthAmount: 90
   rby: {fileID: 3620378409164287484}
   bcr: {fileID: 8210773706833359056}
   srr: {fileID: 3871836870951198997}
@@ -354,7 +354,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.8784314, b: 1, a: 1}
+  m_Color: {r: 1, g: 0, b: 0.9745321, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -362,7 +362,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 88d315dadfdd12e4eaaac89746feee7d, type: 3}
-    m_FontSize: 72
+    m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 7
@@ -742,7 +742,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6.725788
+  orthographic size: 7.4
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

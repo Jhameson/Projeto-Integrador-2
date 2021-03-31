@@ -37,7 +37,7 @@ public class MenuController : MonoBehaviourPunCallbacks
 
      public void ChangeUsernameInput()
     {
-        if (UsernameInput.text.Length >= 4)
+        if (UsernameInput.text.Length >= 3 && UsernameInput.text.Length <=8)
         {
             BtnStart.SetActive(true);
         }

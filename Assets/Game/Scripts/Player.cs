@@ -123,7 +123,7 @@ public class Player : MonoBehaviourPunCallbacks
         tempoVelocidade -= Time.deltaTime;
         if(tempoVelocidade<=0)
         {
-                Buffvel(-2f);
+                Buffvel(-1f);
                 tempoVelocidade = 4f;
                 RunVelocidade = false;
                 
@@ -138,7 +138,7 @@ public class Player : MonoBehaviourPunCallbacks
         tempoJump -= Time.deltaTime;
         if(tempoJump<=0)
         {
-                Buffjump(-40f);
+                Buffjump(-50f);
                 tempoJump = 4f;
                 RunJump = false;
                                     

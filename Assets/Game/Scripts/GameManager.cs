@@ -115,7 +115,7 @@ public class GameManager : MonoBehaviourPunCallbacks
         {
             FimdoGame();
         }
-        if (timerDecrementeValue >= 90)
+        if (timerDecrementeValue >= 170)
         {
             countTi.color = Color.red;
             

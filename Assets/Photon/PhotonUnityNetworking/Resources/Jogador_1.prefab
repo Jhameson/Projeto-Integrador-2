@@ -58,7 +58,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.87685585, b: 1, a: 1}
+  m_Color: {r: 0.08334541, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -66,10 +66,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 88d315dadfdd12e4eaaac89746feee7d, type: 3}
-    m_FontSize: 72
+    m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 7
+    m_MinSize: 5
     m_MaxSize: 72
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -397,8 +397,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a10d0d6d86c541d409fe2131c9a2a427, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MoveSpeed: 7
-  JumpForce: 560
+  MoveSpeed: 8
+  JumpForce: 570
   PlayerNameText: {fileID: 1268127134730261715}
   pV: {fileID: 6385135800531606361}
   rb: {fileID: 1300483909857093707}
@@ -577,7 +577,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6.725788
+  orthographic size: 7.4
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

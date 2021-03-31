@@ -17,7 +17,7 @@ public class Escudo : MonoBehaviourPunCallbacks
     [PunRPC]
     public void DestroyObject()
      {
-        PhotonNetwork.LocalPlayer.AddScore(-3);
+        //PhotonNetwork.LocalPlayer.AddScore(-3);
         Destroy(gameObject);
     }
     

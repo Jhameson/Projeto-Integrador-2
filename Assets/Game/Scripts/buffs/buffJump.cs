@@ -17,7 +17,7 @@ public class buffJump : MonoBehaviourPunCallbacks
     [PunRPC]
     public void DestroyObject()
      {
-        PhotonNetwork.LocalPlayer.AddScore(1);
+        
         Destroy(gameObject);
     }
 

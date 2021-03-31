@@ -925,8 +925,8 @@ MonoBehaviour:
     a primeira coisa que voc\xEA ter\xE1 que fazer, ser\xE1 escolher um personagem.\r\n\t\n\t>Nesse
     mapa voc\xEA encontrar\xE1 diversos itens que podem garantir a sua sobreviv\xEAncia,
     como escudos, buffs que ir\xE3o lhe ajudar a se locomover e curas que ir\xE3o
-    garantir sua sobreviv\xEAncia.\r\n\n\t>Voc\xEA tamb\xE9m poder\xE1 encontrar
-    ref\xFAgio e abrigo em paredes falsas,  elas ir\xE3o ocultar a sua localiza\xE7\xE3o.\r\n\t\n\t>Ao
+    garantir sua sobreviv\xEAncia.\r\n\t>Voc\xEA tamb\xE9m poder\xE1 encontrar ref\xFAgio
+    e abrigo em paredes falsas,  elas ir\xE3o ocultar a sua localiza\xE7\xE3o.\r\n\t>Ao
     final de 3 minutos a rodada acaba e os scores dos jogadores s\xE3o exibidos na
     tela final e \xE9 s\xF3 dar RESTART e voltar a se divertir!"
 --- !u!222 &455737908
@@ -2807,7 +2807,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &967342080
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4306,12 +4306,11 @@ MonoBehaviour:
     Crie uma nova sala\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t> CRIAR\n\t> Ou entre em
     alguma j\xE1 existente\t\t\t\t\t\t\t\t\t\t\t\t\t> ENTRAR\n\t> Escolha um personagem\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t>
     JOGAR\n\t\n\t> Acerte a maior quantidade poss\xEDvel de tiros em seus oponentes.
-    +1 ponto cada acerto \n\t\n\t> Itens \"Cora\xE7\xE3o\" recuperam vida. Por\xE9m
-    tiram -1 ponto cada um\n\t> Itens \"Saquinho amarelo\" d\xE3o um escudo por 4
-    segundos.  Mas tiram -1 ponto cada um\n\t> Itens \"Saquinho vermelho\" d\xE3o
-    velocidade de movimento e +1 ponto de score para cada um que pegar\n\t> Itens
-    \"Saquinho cinza\" d\xE3o mais for\xE7a no pulo e +1 de score para cada um que
-    pegar\n\t\n\t> Tempo de rodada 3 minutos\n\t> DIVIRTA-SE!!!\n\t"
+    +1 ponto cada acerto \n\t\n\t> Itens \"Cora\xE7\xE3o\" recuperam vida \n\t> Itens
+    \"Saquinho amarelo\" d\xE3o um escudo por 4 segundos\n\t> Itens \"Saquinho vermelho\"
+    d\xE3o velocidade de movimento por 4 segundos\n\t> Itens \"Saquinho cinza\" d\xE3o
+    mais for\xE7a no pulo por 4 segundos\n\t\n\t> Tempo de rodada 3 minutos\n\t>
+    DIVIRTA-SE!!!\n\t"
 --- !u!222 &1593289283
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5293,7 +5292,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5af8d90c1ed646c49929004ef6a0ae8e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 941e9eda9f28bfe4d803ac19b944d16a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
