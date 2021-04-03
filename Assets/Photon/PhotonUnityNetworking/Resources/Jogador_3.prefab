@@ -65,8 +65,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 911566330352789777}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.35, y: 2.19, z: 0}
-  m_LocalScale: {x: 1.9800475, y: 2.189414, z: 2.0748127}
+  m_LocalPosition: {x: 0, y: 2.19, z: 0}
+  m_LocalScale: {x: 1.7538344, y: 1.9392816, z: 1.837773}
   m_Children:
   - {fileID: 2930594433367484534}
   - {fileID: 1059780029864578968}
@@ -201,7 +201,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MoveSpeed: 6
-  JumpForce: 530
+  JumpForce: 540
   PlayerNameText: {fileID: 3883967410411225533}
   pV: {fileID: 8999135502400491063}
   rb: {fileID: 3923737092664098085}
@@ -272,7 +272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 687bba926b789c1469c16e5942251f39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HealthAmount: 95
+  HealthAmount: 100
   rby: {fileID: 3923737092664098085}
   bcr: {fileID: 3848862506487448259}
   srr: {fileID: 6814558173799177392}

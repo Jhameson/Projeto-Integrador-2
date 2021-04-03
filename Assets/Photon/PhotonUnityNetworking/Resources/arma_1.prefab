@@ -124,8 +124,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MoveDir: 0
   MoveSpeed: 13
-  DestroyTime: 2.3
-  BulletDamage: 7
+  DestroyTime: 2
+  BulletDamage: 6
 --- !u!114 &-3579957893136676095
 MonoBehaviour:
   m_ObjectHideFlags: 0

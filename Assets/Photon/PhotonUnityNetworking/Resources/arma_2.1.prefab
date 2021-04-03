@@ -118,9 +118,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MoveDir: 0
-  MoveSpeed: 10
+  MoveSpeed: 11
   DestroyTime: 1.2
-  BulletDamage: 11
+  BulletDamage: 12
 --- !u!61 &5411619475933744053
 BoxCollider2D:
   m_ObjectHideFlags: 0

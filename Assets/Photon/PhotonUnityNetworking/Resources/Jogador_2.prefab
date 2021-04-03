@@ -244,7 +244,7 @@ Transform:
   m_GameObject: {fileID: 4125323058997791264}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 2.19, z: 0}
-  m_LocalScale: {x: 1.9800475, y: 2.189414, z: 2.0748127}
+  m_LocalScale: {x: 1.7538344, y: 1.9392816, z: 1.837773}
   m_Children:
   - {fileID: 2111361204641581895}
   - {fileID: 4274909566976224425}
@@ -379,7 +379,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MoveSpeed: 5
-  JumpForce: 530
+  JumpForce: 540
   PlayerNameText: {fileID: 1852416652}
   pV: {fileID: 5261829198889676038}
   rb: {fileID: 258242092657843732}
@@ -450,7 +450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 687bba926b789c1469c16e5942251f39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HealthAmount: 130
+  HealthAmount: 140
   rby: {fileID: 258242092657843732}
   bcr: {fileID: -5889731518154317639}
   srr: {fileID: 7743010771044417409}

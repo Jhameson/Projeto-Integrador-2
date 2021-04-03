@@ -125,7 +125,7 @@ MonoBehaviour:
   MoveDir: 0
   MoveSpeed: 11
   DestroyTime: 1.7
-  BulletDamage: 10
+  BulletDamage: 11
 --- !u!114 &933140152878132142
 MonoBehaviour:
   m_ObjectHideFlags: 0
